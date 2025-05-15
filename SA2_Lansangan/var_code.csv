@@ -1,0 +1,1958 @@
+﻿Variable Label,Variable Name,Variable Type
+AC-1 Hispanic/Latin origin,HISP,raw
+AC-2 Hispanic/Latin origin -- group,HISPGRP,raw
+AD-7b R's marital or cohabiting status,MARSTAT,raw
+AD-7c R's legal marital status relative to opposite-sex spouses,LMARSTAT,raw
+ADDEXP imputation flag,ADDEXP_I,imputation flag
+AF-2y year high school diploma obtained,EARNHS_Y,raw
+AF-3 year last attended elem/jun/high school,MYSCHOL_Y,raw
+AF-4 year bachelors degree obtained,EARNBA_Y,raw
+AG-0a (before age 18) R ever live away from parents/guardians?,ONOWN,raw
+AG-1 R always lived w/ both biological/adoptive parents?,INTACT,raw
+AG-10 R ever lived in foster care,FOSTEREV,raw
+AG-11 Number of foster care settings R lived in (top-coded),MNYFSTER,raw
+AG-12 Total time spent in foster care,DURFSTER,raw
+AG-13 Age last left foster care,AGEFSTER,raw
+AG-2 Rs biological parents married at birth?,PARMARR,raw
+AG-3 female parent (figure) living with at age 14 - fam not intact thru 18,LVSIT14F,raw
+AG-4 male parent (figure) living with at age 14 - fam not intact thru 18,LVSIT14M,raw
+AG-5 woman R thinks of as raised her during teens,WOMRASDU,raw
+AG-7 female parent (figure) worked FT/PT when R was 5-15?,MOMWORKD,raw
+AG-9 man R thinks of as raised her during teens,MANRASDU,raw
+Age at 2nd marriage to a man,FMAR2AGE,computed in post-processing
+Age at dissolution of 1st marriage to a man (bottom-coded),AGEDISS1,recode
+Age at divorce or death: 1st marriage to a man (bottom-coded),AGEDD1,recode
+Age at first marriage to a man (bottom-coded),FMAR1AGE,recode
+Age of mother (or mother figure) at first birth,AGEMOMB1,recode
+Age when R had her first biological child,AGEBABY1,computed in post-processing
+AGEDD1 imputation flag,AGEDD1_I,imputation flag
+AGEDISS1 imputation flag,AGEDISS1_I,imputation flag
+AGEMOMB1 imputation flag,AGEMOMB1_I,imputation flag
+AH-1 R's legal marital status relative to opposite-sex spouses,MARSTATB,raw
+AH-2 ever lived with male sexual partner,EVCOHABB,raw
+Any contraceptive use in the 12 months prior to interview,ANYBC36,Intermediate
+Any months of non-intercourse in the 36 months prior to interview,NOSEX36,Intermediate
+ANYMTHD_I imputation flag,ANYMTHD_I,imputation flag
+BA-1 Age at first menstrual period (bottom-coded),MENARCHE,raw
+BD-1 Have any other nonbio children ever lived w/R under her care and responsibility,OTHERKID,raw
+BD-10 Is R trying to adopt or become guardian for this nonbio child - 1st child,TRYEITHR_01,raw
+BD-10 Is R trying to adopt or become guardian for this nonbio child - 2nd child,TRYEITHR_02,raw
+BD-10 Is R trying to adopt or become guardian for this nonbio child - 3rd child,TRYEITHR_03,raw
+BD-11 Was this nonbio child a foster or related child placed w/R by Soc Svcs - 1st child,NBKIDFOS_01,raw
+BD-11 Was this nonbio child a foster or related child placed w/R by Soc Svcs - 2nd child,NBKIDFOS_02,raw
+BD-11 Was this nonbio child a foster or related child placed w/R by Soc Svcs - 3rd child,NBKIDFOS_03,raw
+BD-12 R has ever legally adopted a child,EVERADOPT,raw
+BD-2 Number of other nonbio children who ever llived w/R under her care and responsibility,NOTHRKID,raw
+BD-3 Number of these other nonbio children currently living with R (top-coded),NBKIDLIV,raw
+BD-5 Is other nonbio child living w/R male or female - 1st child,NBKIDSEX_01,raw
+BD-5 Is other nonbio child living w/R male or female - 2nd child,NBKIDSEX_02,raw
+BD-5 Is other nonbio child living w/R male or female - 3rd child,NBKIDSEX_03,raw
+BD-6 Relationship of other nonbio child to R when began living with R - 1st child,NBKIDREL_01,raw
+BD-6 Relationship of other nonbio child to R when began living with R - 2nd child,NBKIDREL_02,raw
+BD-6 Relationship of other nonbio child to R when began living with R - 3rd child,NBKIDREL_03,raw
+BD-7 Age of other nonbio child when began living with R - 1st child,NBKDAGE_01,raw
+BD-7 Age of other nonbio child when began living with R - 2nd child,NBKDAGE_02,raw
+BD-7 Age of other nonbio child when began living with R - 3rd child,NBKDAGE_03,raw
+BD-8 Did R legally adopt this nonbio child - 1st child,ADPTNBKD_01,raw
+BD-8 Did R legally adopt this nonbio child - 2nd child,ADPTNBKD_02,raw
+BD-8 Did R legally adopt this nonbio child - 3rd child,ADPTNBKD_03,raw
+BD-9 Is R trying to adopt this nonbio child - 1st child,TRYADOPT_01,raw
+BD-9 Is R trying to adopt this nonbio child - 2nd child,TRYADOPT_02,raw
+BD-9 Is R trying to adopt this nonbio child - 3rd child,TRYADOPT_03,raw
+BE-1 R Currently Seeking to Adopt,SEEKADPT,raw
+BE-2 Has R Taken Specific Steps to Adopt,CONTAGEM,raw
+BE-3 How Long R Has Been Seeking to Adopt,TRYLONG,raw
+BE-4 Is R Seeking to Adopt Child She Knows,KNOWADPT,raw
+BF-1 R Ever Considered Adopting a Child,EVWNTANO,raw
+BF-2 R Ever Took Specific Steps to Adopt a Child,EVCONTAG,raw
+BF-3 R Ever Turned Down for Adoption,TURNDOWN,raw
+BF-4 Reason R Quit Trying to Adopt,YQUITTRY,raw
+BF-5 R has heard of frozen embryo donation or adoption,HRDEMBRYO,raw
+BF-6 Where R heard about embryo adoption or donation - 1st mention,SRCEMBRYO_1,raw
+BF-6 Where R heard about embryo adoption or donation - 2nd mention,SRCEMBRYO_2,raw
+BF-6 Where R heard about embryo adoption or donation - 3rd mention,SRCEMBRYO_3,raw
+BF-6 Where R heard about embryo adoption or donation - 4th mention,SRCEMBRYO_4,raw
+BF-6 Where R heard about embryo adoption or donation - 5th mention,SRCEMBRYO_5,raw
+"Body Mass Index (BMI, in categorical form)",BMICAT,computed in post-processing
+CA_14 Have children together - current wife/female cohabiting partner,SSKIDTOG,raw
+CA-11 Highest level of education - current wife/female cohabiting partner,CFSPEDUCN,raw
+CA-13 Was current wife/female cohabiting partner married before?,CFSPMARBF,raw
+CA-15 Number of children together - current wife/female cohabiting partner,NSSKIDTOG,raw
+CA-16 How many children together are under age 18 - current wife/female cohabiting partner,SSKIDTOG18,raw
+CA-2y Year of marriage to current wife,FMARRDATE_Y,raw
+CA-3 R's age when married to current wife,HERAGEFM,raw
+CA-4 Ever cohabited premaritally with current wife,LIVTOGFS,raw
+CA-5y Year began living together w/ current wife/female cohabiting partner,STRTCFSP_Y,raw
+CA-6 R's age when began living together w/ current wife/female cohabiting partner,HERAGEF,raw
+CA-7 Engaged when began cohabiting - current wife/female cohabiting partner,ENGATFSP,raw
+CA-8 Does R think she will marry current female cohabiting partner?,WILLMARRF,raw
+CB-11 Highest Level of Education - 1st Husband,CHEDMARN_1,raw
+CB-11 Highest Level of Education - 2nd Husband,CHEDMARN_2,raw
+CB-11 Highest Level of Education - 3rd Husband,CHEDMARN_3,raw
+CB-11 Highest Level of Education - 4th Husband,CHEDMARN_4,raw
+CB-11 Highest Level of Education - 5th Husband,CHEDMARN_5,raw
+CB-12 Was He Married Before? - 1st Husband,MARBEFHX_1,raw
+CB-12 Was He Married Before? - 2nd Husband,MARBEFHX_2,raw
+CB-12 Was He Married Before? - 3rd Husband,MARBEFHX_3,raw
+CB-12 Was He Married Before? - 4th Husband,MARBEFHX_4,raw
+CB-12 Was He Married Before? - 5th Husband,MARBEFHX_5,raw
+CB-13 Did He Have Kids From Prior Relationship? - 1st Husband,KIDSHX_1,raw
+CB-13 Did He Have Kids From Prior Relationship? - 2nd Husband,KIDSHX_2,raw
+CB-13 Did He Have Kids From Prior Relationship? - 3rd Husband,KIDSHX_3,raw
+CB-13 Did He Have Kids From Prior Relationship? - 4th Husband,KIDSHX_4,raw
+CB-13 Did He Have Kids From Prior Relationship? - 5th Husband,KIDSHX_5,raw
+CB-14 Any Kids From Prior Relationships Live With R & 1st Husband?,KIDLIVHX_1,raw
+CB-14 Any Kids From Prior Relationships Live With R & 2nd Husband?,KIDLIVHX_2,raw
+CB-14 Any Kids From Prior Relationships Live With R & 3rd Husband?,KIDLIVHX_3,raw
+CB-14 Any Kids From Prior Relationships Live With R & 4th Husband?,KIDLIVHX_4,raw
+CB-14 Any Kids From Prior Relationships Live With R & 5th Husband?,KIDLIVHX_5,raw
+CB-15 Did R have bio kids with this husband? - 1st Husband,BIOHUSBX_1,raw
+CB-15 Did R have bio kids with this husband? - 2nd Husband,BIOHUSBX_2,raw
+CB-15 Did R have bio kids with this husband? - 3rd Husband,BIOHUSBX_3,raw
+CB-15 Did R have bio kids with this husband? - 4th Husband,BIOHUSBX_4,raw
+CB-15 Did R have bio kids with this husband? - 5th Husband,BIOHUSBX_5,raw
+CB-16 Number of bio kids with this husband - 2nd Husband,BIONUMHX_2,raw
+CB-16 Number of bio kids with this husband - 3rd Husband,BIONUMHX_3,raw
+CB-16 Number of bio kids with this husband - 4th Husband,BIONUMHX_4,raw
+CB-16 Number of bio kids with this husband - 5th Husband,BIONUMHX_5,raw
+CB-16 Number of bio kids with this husband? - 1st Husband,BIONUMHX_1,raw
+CB-17 How Marriage Ended - 1st Husband,MARENDHX_1,raw
+CB-17 How Marriage Ended - 2nd Husband,MARENDHX_2,raw
+CB-17 How Marriage Ended - 3rd Husband,MARENDHX_3,raw
+CB-17 How Marriage Ended - 4th Husband,MARENDHX_4,raw
+CB-17 How Marriage Ended - 5th Husband,MARENDHX_5,raw
+CB-18y Year Marriage Ended - 1st Husband,ENDMARRX_Y_1,raw
+CB-18y Year Marriage Ended - 2nd Husband,ENDMARRX_Y_2,raw
+CB-18y Year Marriage Ended - 3rd Husband,ENDMARRX_Y_3,raw
+CB-18y Year Marriage Ended - 4th Husband,ENDMARRX_Y_4,raw
+CB-18y Year Marriage Ended - 5th Husband,ENDMARRX_Y_5,raw
+CB-19y Year Stopped Living Together - 1st Husband,WNSTPHX_Y_1,raw
+CB-19y Year Stopped Living Together - 2nd Husband,WNSTPHX_Y_2,raw
+CB-19y Year Stopped Living Together - 3rd Husband,WNSTPHX_Y_3,raw
+CB-19y Year Stopped Living Together - 4th Husband,WNSTPHX_Y_4,raw
+CB-19y Year Stopped Living Together - 5th Husband,WNSTPHX_Y_5,raw
+CB-2b Verify Current Husband's Name,HSBVERIF,raw
+CB-3y Year of marriage to 1st husband,WHMARHX_Y_1,raw
+CB-3y Year of marriage to 2nd husband,WHMARHX_Y_2,raw
+CB-3y Year of marriage to 3rd husband,WHMARHX_Y_3,raw
+CB-3y Year of marriage to 4th husband,WHMARHX_Y_4,raw
+CB-3y Year of marriage to 5th husband,WHMARHX_Y_5,raw
+CB-5 Husband's Age At Marriage - 1st Husband (categorical),HXAGEMAR_1,raw
+CB-5 Husband's Age At Marriage - 2nd Husband (categorical),HXAGEMAR_2,raw
+CB-5 Husband's Age At Marriage - 3rd Husband (categorical),HXAGEMAR_3,raw
+CB-5 Husband's Age At Marriage - 4th Husband (categorical),HXAGEMAR_4,raw
+CB-5 Husband's Age At Marriage - 5th Husband (categorical),HXAGEMAR_5,raw
+CB-6 Cohabited Before Marriage - 1st Husband,LVTOGHX_1,raw
+CB-6 Cohabited Before Marriage - 2nd Husband,LVTOGHX_2,raw
+CB-6 Cohabited Before Marriage - 3rd Husband,LVTOGHX_3,raw
+CB-6 Cohabited Before Marriage - 4th Husband,LVTOGHX_4,raw
+CB-6 Cohabited Before Marriage - 5th Husband,LVTOGHX_5,raw
+CB-7y Year Began Premarital Cohabitation - 1st Husband,STRTOGHX_Y_1,raw
+CB-7y Year Began Premarital Cohabitation - 2nd Husband,STRTOGHX_Y_2,raw
+CB-7y Year Began Premarital Cohabitation - 3rd Husband,STRTOGHX_Y_3,raw
+CB-7y Year Began Premarital Cohabitation - 4th Husband,STRTOGHX_Y_4,raw
+CB-7y Year Began Premarital Cohabitation - 5th Husband,STRTOGHX_Y_5,raw
+CB-8 Engaged When R Began Premarital Cohabitation - 1st Husband,ENGAGHX_1,raw
+CB-8 Engaged When R Began Premarital Cohabitation - 2nd Husband,ENGAGHX_2,raw
+CB-8 Engaged When R Began Premarital Cohabitation - 3rd Husband,ENGAGHX_3,raw
+CB-8 Engaged When R Began Premarital Cohabitation - 4th Husband,ENGAGHX_4,raw
+CB-8 Engaged When R Began Premarital Cohabitation - 5th Husband,ENGAGHX_5,raw
+CC-10 Was He Married Before? - Current Male Cohabiting Partner,CPMARBEF,raw
+CC-11 Did He Have Kids from Prior Relationships? - Current Male Cohabiting Partner,CPKIDS,raw
+CC-12 Kids From Prior Relationships Live w/ R & Current Male Cohabiting Partner,CPKIDLIV,raw
+CC-13 Does R have bio kids with current male cohabing partner?,BIOCP,raw
+CC-14 Number of bio kids with current male cohabiting partner,BIONUMCP,raw
+CC-2y Year Began Cohabitation - Current Male Cohabiting Partner,WNSTRTCP_Y,raw
+CC-3 R's Age When Began Cohabiting w/ Current Male Cohabiting Partner,CPHERAGE,raw
+CC-4 Partner's Age When Began Cohabiting - Current Male Cohabiting Partner,CPHISAGE,raw
+CC-5 Engaged When Began Cohabiting - Current Male Cohabiting Partner,CPENGAG1,raw
+CC-6 Does R think she will marry current male cohabiting partner?,WILLMARR,raw
+CC-9 Level of Education - Current Male Cohabiting Partner,CPEDUC,raw
+CD-1 Ever Cohabited With Any (Other) Man,LIVEOTH,raw
+CD-10 Did R have bio kids with 1st male former cohab partner?,BIOFCP1,raw
+CD-11 Number of bio kids with 1st male former cohab partner,BIONUMC1,raw
+CD-12y Year Stopped Cohabition - 1st Male Former Cohab Partner,STPTOGC1_Y,raw
+CD-4y Year Began Cohabition - 1st Male Former Cohab Partner,STRTOTH1_Y,raw
+CD-5 R's Age When Began Cohabiting With 1st Male Former Partner,HERAGEC1,raw
+CD-6 Partner's Age When Began Cohabiting - 1st Male Former Cohab Partner,HISAGEC1,raw
+CD-7 Engaged When Began Cohabiting - 1st Male Former Cohab Partner,ENGAG1C1,raw
+CD-8 Was He Married Before? - 1st Male Former Cohab Partner,MAREVC1,raw
+CD-9 Did He Have Kids From Prior Relationships? - 1st Male Former Cohab Partner,C1KIDS,raw
+CE-1 Ever Had Sex With a Male,EVERSEX,raw
+CE-2 Main Reason R Has Not Had Sex With a Man,YNOSEX,raw
+CE-8 Grade R Was in at First Sexual Intercourse (bottom-coded),GRFSTSX,raw
+Central number of additional births expected,ADDEXP,recode
+Century month began method(s) reported in Jan yyyy (FC E-49),CMDATBEGIN,computed
+Century month for 1 year prior to interview (computed in FC A-1),CMLSTYR,computed
+Century month for date first used a method (if not at first sex) (FC E-20),CMFSTUSE,computed
+Century month for date of ending month of method calendar (FC E-39),CMENDMC,computed
+Century month for date of interview (computed in FC A-1),CMINTVW,computed
+Century month for date of starting month of method calendar (FC E-39),CMSTRTMC,computed
+Century month of April [interview yr] in the method history calendar (FC E-44),CMMHCALX40,computed
+Century month of April [interview yr-1] in the method history calendar (FC E-44),CMMHCALX28,computed
+Century month of April [interview yr-2] in the method history calendar (FC E-44),CMMHCALX16,computed
+Century month of April [interview yr-3] in the method history calendar (FC E-44),CMMHCALX4,computed
+Century month of Aug [interview yr] in the method history calendar (FC E-44),CMMHCALX44,computed
+Century month of Aug [interview yr-1] in the method history calendar (FC E-44),CMMHCALX32,computed
+Century month of Aug [interview yr-2] in the method history calendar (FC E-44),CMMHCALX20,computed
+Century month of Aug [interview yr-3] in the method history calendar (FC E-44),CMMHCALX8,computed
+Century month of Dec [interview yr] in the method history calendar (FC E-44),CMMHCALX48,computed
+Century month of Dec [interview yr-1] in the method history calendar (FC E-44),CMMHCALX36,computed
+Century month of Dec [interview yr-2] in the method history calendar (FC E-44),CMMHCALX24,computed
+Century month of Dec [interview yr-3] in the method history calendar (FC E-44),CMMHCALX12,computed
+Century month of Feb [interview yr] in the method history calendar (FC E-44),CMMHCALX38,computed
+Century month of Feb [interview yr-1] in the method history calendar (FC E-44),CMMHCALX26,computed
+Century month of Feb [interview yr-2] in the method history calendar (FC E-44),CMMHCALX14,computed
+Century month of Feb [interview yr-3] in the method history calendar (FC E-44),CMMHCALX2,computed
+Century month of interview - 5 yrs (computed in FC A-1),CMFIVYR,computed
+Century month of Jan [interview yr] in the method history calendar (FC E-44),CMMHCALX37,computed
+Century month of Jan [interview yr-1] in the method history calendar (FC E-44),CMMHCALX25,computed
+Century month of Jan [interview yr-2] in the method history calendar (FC E-44),CMMHCALX13,computed
+Century month of Jan [interview yr-3] in the method history calendar (FC E-44),CMMHCALX1,computed
+Century month of January (Current Year - 3) (computed in FC A-1),CMJAN3YR,computed
+Century month of January (Current Year - 5) (computed in FC A-1),CMJAN5YR,computed
+Century Month of January Four Years Prior to Year of Interview (computed in FC A-1),CMJAN4YR,computed
+Century month of July [interview yr] in the method history calendar (FC E-44),CMMHCALX43,computed
+Century month of July [interview yr-1] in the method history calendar (FC E-44),CMMHCALX31,computed
+Century month of July [interview yr-2] in the method history calendar (FC E-44),CMMHCALX19,computed
+Century month of July [interview yr-3] in the method history calendar (FC E-44),CMMHCALX7,computed
+Century month of June [interview yr] in the method history calendar (FC E-44),CMMHCALX42,computed
+Century month of June [interview yr-1] in the method history calendar (FC E-44),CMMHCALX30,computed
+Century month of June [interview yr-2] in the method history calendar (FC E-44),CMMHCALX18,computed
+Century month of June [interview yr-3] in the method history calendar (FC E-44),CMMHCALX6,computed
+Century month of March [interview yr] in the method history calendar (FC E-44),CMMHCALX39,computed
+Century month of March [interview yr-1] in the method history calendar (FC E-44),CMMHCALX27,computed
+Century month of March [interview yr-2] in the method history calendar (FC E-44),CMMHCALX15,computed
+Century month of March [interview yr-3] in the method history calendar (FC E-44),CMMHCALX3,computed
+Century month of May [interview yr] in the method history calendar (FC E-44),CMMHCALX41,computed
+Century month of May [interview yr-1] in the method history calendar (FC E-44),CMMHCALX29,computed
+Century month of May [interview yr-2] in the method history calendar (FC E-44),CMMHCALX17,computed
+Century month of May [interview yr-3] in the method history calendar (FC E-44),CMMHCALX5,computed
+Century month of Nov [interview yr] in the method history calendar (FC E-44),CMMHCALX47,computed
+Century month of Nov [interview yr-1] in the method history calendar (FC E-44),CMMHCALX35,computed
+Century month of Nov [interview yr-2] in the method history calendar (FC E-44),CMMHCALX23,computed
+Century month of Nov [interview yr-3] in the method history calendar (FC E-44),CMMHCALX11,computed
+Century month of Oct [interview yr] in the method history calendar (FC E-44),CMMHCALX46,computed
+Century month of Oct [interview yr-1] in the method history calendar (FC E-44),CMMHCALX34,computed
+Century month of Oct [interview yr-2] in the method history calendar (FC E-44),CMMHCALX22,computed
+Century month of Oct [interview yr-3] in the method history calendar (FC E-44),CMMHCALX10,computed
+Century month of Sept [interview yr] in the method history calendar (FC E-44),CMMHCALX45,computed
+Century month of Sept [interview yr-1] in the method history calendar (FC E-44),CMMHCALX33,computed
+Century month of Sept [interview yr-2] in the method history calendar (FC E-44),CMMHCALX21,computed
+Century month of Sept [interview yr-3] in the method history calendar (FC E-44),CMMHCALX9,computed
+"Century month of this entry in the months of nonintercourse series (Apr, intvw yr) (FC E-34a)",CMMONSX40,computed
+"Century month of this entry in the months of nonintercourse series (Apr, intvw yr-1) (FC E-34a)",CMMONSX28,computed
+"Century month of this entry in the months of nonintercourse series (Apr, intvw yr-2) (FC E-34a)",CMMONSX16,computed
+"Century month of this entry in the months of nonintercourse series (Apr, intvw yr-3) (FC E-34a)",CMMONSX4,computed
+"Century month of this entry in the months of nonintercourse series (Aug, intvw yr) (FC E-34a)",CMMONSX44,computed
+"Century month of this entry in the months of nonintercourse series (Aug, intvw yr-1) (FC E-34a)",CMMONSX32,computed
+"Century month of this entry in the months of nonintercourse series (Aug, intvw yr-2) (FC E-34a)",CMMONSX20,computed
+"Century month of this entry in the months of nonintercourse series (Aug, intvw yr-3) (FC E-34a)",CMMONSX8,computed
+"Century month of this entry in the months of nonintercourse series (Dec, intvw yr) (FC E-34a)",CMMONSX48,computed
+"Century month of this entry in the months of nonintercourse series (Dec, intvw yr-1) (FC E-34a)",CMMONSX36,computed
+"Century month of this entry in the months of nonintercourse series (Dec, intvw yr-2) (FC E-34a)",CMMONSX24,computed
+"Century month of this entry in the months of nonintercourse series (Dec, intvw yr-3) (FC E-34a)",CMMONSX12,computed
+"Century month of this entry in the months of nonintercourse series (Feb, intvw yr-1) (FC E-34a)",CMMONSX26,computed
+"Century month of this entry in the months of nonintercourse series (Feb, intvw yr-1) (FC E-34a)",CMMONSX38,computed
+"Century month of this entry in the months of nonintercourse series (Feb, intvw yr-2) (FC E-34a)",CMMONSX14,computed
+"Century month of this entry in the months of nonintercourse series (Feb, intvw yr-3) (FC E-34a)",CMMONSX2,computed
+"Century month of this entry in the months of nonintercourse series (Jan, intvw yr) (FC E-34a)",CMMONSX37,computed
+"Century month of this entry in the months of nonintercourse series (Jan, intvw yr-1) (FC E-34a)",CMMONSX25,computed
+"Century month of this entry in the months of nonintercourse series (Jan, intvw yr-2) (FC E-34a)",CMMONSX13,computed
+"Century month of this entry in the months of nonintercourse series (Jan, intvw yr-3) (FC E-34a)",CMMONSX,computed
+"Century month of this entry in the months of nonintercourse series (July, intvw yr) (FC E-34a)",CMMONSX43,computed
+"Century month of this entry in the months of nonintercourse series (July, intvw yr-1) (FC E-34a)",CMMONSX31,computed
+"Century month of this entry in the months of nonintercourse series (July, intvw yr-2) (FC E-34a)",CMMONSX19,computed
+"Century month of this entry in the months of nonintercourse series (July, intvw yr-3) (FC E-34a)",CMMONSX7,computed
+"Century month of this entry in the months of nonintercourse series (June, intvw yr) (FC E-34a)",CMMONSX42,computed
+"Century month of this entry in the months of nonintercourse series (June, intvw yr-1) (FC E-34a)",CMMONSX30,computed
+"Century month of this entry in the months of nonintercourse series (June, intvw yr-2) (FC E-34a)",CMMONSX18,computed
+"Century month of this entry in the months of nonintercourse series (June, intvw yr-3) (FC E-34a)",CMMONSX6,computed
+"Century month of this entry in the months of nonintercourse series (Mar, intvw yr) (FC E-34a)",CMMONSX39,computed
+"Century month of this entry in the months of nonintercourse series (Mar, intvw yr-1) (FC E-34a)",CMMONSX27,computed
+"Century month of this entry in the months of nonintercourse series (Mar, intvw yr-2) (FC E-34a)",CMMONSX15,computed
+"Century month of this entry in the months of nonintercourse series (Mar, intvw yr-3) (FC E-34a)",CMMONSX3,computed
+"Century month of this entry in the months of nonintercourse series (May, intvw yr) (FC E-34a)",CMMONSX41,computed
+"Century month of this entry in the months of nonintercourse series (May, intvw yr-1) (FC E-34a)",CMMONSX29,computed
+"Century month of this entry in the months of nonintercourse series (May, intvw yr-2) (FC E-34a)",CMMONSX17,computed
+"Century month of this entry in the months of nonintercourse series (May, intvw yr-3) (FC E-34a)",CMMONSX5,computed
+"Century month of this entry in the months of nonintercourse series (Nov, intvw yr) (FC E-34a)",CMMONSX47,computed
+"Century month of this entry in the months of nonintercourse series (Nov, intvw yr-1) (FC E-34a)",CMMONSX35,computed
+"Century month of this entry in the months of nonintercourse series (Nov, intvw yr-2) (FC E-34a)",CMMONSX23,computed
+"Century month of this entry in the months of nonintercourse series (Nov, intvw yr-3) (FC E-34a)",CMMONSX11,computed
+"Century month of this entry in the months of nonintercourse series (Oct, intvw yr) (FC E-34a)",CMMONSX46,computed
+"Century month of this entry in the months of nonintercourse series (Oct, intvw yr-1) (FC E-34a)",CMMONSX34,computed
+"Century month of this entry in the months of nonintercourse series (Oct, intvw yr-2) (FC E-34a)",CMMONSX22,computed
+"Century month of this entry in the months of nonintercourse series (Oct, intvw yr-3) (FC E-34a)",CMMONSX10,computed
+"Century month of this entry in the months of nonintercourse series (Sept, intvw yr) (FC E-34a)",CMMONSX45,computed
+"Century month of this entry in the months of nonintercourse series (Sept, intvw yr-1) (FC E-34a)",CMMONSX33,computed
+"Century month of this entry in the months of nonintercourse series (Sept, intvw yr-2) (FC E-34a)",CMMONSX21,computed
+"Century month of this entry in the months of nonintercourse series (Sept, intvw yr-3) (FC E-34a)",CMMONSX9,computed
+CF-1 Sex Ed Topics R Has Discussed with Parents -1st Mention,TALKPAR1,raw
+CF-1 Sex Ed Topics R Has Discussed with Parents -2nd Mention,TALKPAR2,raw
+CF-1 Sex Ed Topics R Has Discussed with Parents -3rd Mention,TALKPAR3,raw
+CF-1 Sex Ed Topics R Has Discussed with Parents -4th Mention,TALKPAR4,raw
+CF-1 Sex Ed Topics R Has Discussed with Parents -5th Mention,TALKPAR5,raw
+CF-1 Sex Ed Topics R Has Discussed with Parents -6th Mention,TALKPAR6,raw
+CF-1 Sex Ed Topics R Has Discussed with Parents -7th Mention,TALKPAR7,raw
+CF-10 R recd Instruction-Where to Get Birth Control before/after 1st sex,SEDWBCSX,raw
+CF-11 Formal Sex Ed Before 18: How to Use a Condom,SEDCOND,raw
+CF-11a Place where received instructions on How to Use a Condom-1st Mention,SEDCONLC1,raw
+CF-11a Place where received instructions on How to Use a Condom-2nd Mention,SEDCONLC2,raw
+CF-11a Place where received instructions on How to Use a Condom-3rd Mention,SEDCONLC3,raw
+CF-11a Place where received instructions on How to Use a Condom-4th Mention,SEDCONLC4,raw
+CF-12 Rs Grade When Received Instruction on How to Use a Condom,SEDCONDG,raw
+CF-13 R recd Instruction-How to Use a Condom before/after 1st sex,SEDCONSX,raw
+CF-14 Formal Sex Ed Before 18: STDs,SEDSTD,raw
+CF-14a Place where received instructions on STDs-1st Mention,SEDSTDLC1,raw
+CF-14a Place where received instructions on STDs-2nd Mention,SEDSTDLC2,raw
+CF-14a Place where received instructions on STDs-3rd Mention,SEDSTDLC3,raw
+CF-14a Place where received instructions on STDs-4th Mention,SEDSTDLC4,raw
+CF-15 Rs Grade When Received Instruction on STDs,SEDSTDG,raw
+CF-16 Recd Sex Ed on STDs Before/After 1st Sex,SEDSTDSX,raw
+CF-17 Formal Sex Ed Before 18: preventing HIV/AIDS,SEDHIV,raw
+CF-17a Place where received instructions on how to prevent HIV/AIDS-1st Mention,SEDHIVLC1,raw
+CF-17a Place where received instructions on how to prevent HIV/AIDS-2nd Mention,SEDHIVLC2,raw
+CF-17a Place where received instructions on how to prevent HIV/AIDS-3rd Mention,SEDHIVLC3,raw
+CF-17a Place where received instructions on how to prevent HIV/AIDS-4th Mention,SEDHIVLC4,raw
+CF-18 Rs Grade When Received Instruction on preventing HIV/AIDS,SEDHIVG,raw
+CF-19 Recd Sex Ed on preventing HIV/AIDS Before/After 1st Sex,SEDHIVSX,raw
+CF-2 Formal Sex Ed Before 18: How to Say No to Sex,SEDNO,raw
+CF-20 Formal Sex Ed Before 18: Waiting Until Marriage,SEDABST,raw
+CF-20a Place where received instruction about waiting until marriage to have sex-1st Mention,SEDABLC1,raw
+CF-20a Place where received instruction about waiting until marriage to have sex-2nd Mention,SEDABLC2,raw
+CF-20a Place where received instruction about waiting until marriage to have sex-3rd Mention,SEDABLC3,raw
+CF-20a Place where received instruction about waiting until marriage to have sex-4th Mention,SEDABLC4,raw
+CF-21 Rs Grade When Received Instruction on Waiting Until Marriage,SEDABSTG,raw
+CF-22 R recd instruction-Waiting Until Marriage before/after 1st sex,SEDABSSX,raw
+CF-2a Place where received instructions on how to say no to sex-1st Mention,SEDNOLC1,raw
+CF-2a Place where received instructions on how to say no to sex-2nd Mention,SEDNOLC2,raw
+CF-2a Place where received instructions on how to say no to sex-3rd Mention,SEDNOLC3,raw
+CF-2a Place where received instructions on how to say no to sex-4th Mention,SEDNOLC4,raw
+CF-3 Grade R Received Sex Ed on How to Say No to Sex,SEDNOG,raw
+CF-4 Recd Sex Ed on How to Say No to Sex Before/After 1st Sex,SEDNOSX,raw
+CF-5 Formal Sex Ed Before 18: Methods of Birth Control,SEDBC,raw
+CF-5a Place where received instruction about methods of birth control-1st Mention,SEDBCLC1,raw
+CF-5a Place where received instruction about methods of birth control-2nd Mention,SEDBCLC2,raw
+CF-5a Place where received instruction about methods of birth control-3rd Mention,SEDBCLC3,raw
+CF-5a Place where received instruction about methods of birth control-4th Mention,SEDBCLC4,raw
+CF-6 Rs Grade When Received Instruction on Birth Control,SEDBCG,raw
+CF-7 Recd Sex Ed on Birth Control Methods Before/After 1st Sex,SEDBCSX,raw
+CF-8 Formal Sex Ed Before 18: Where to Get Birth Control,SEDWHBC,raw
+CF-8a Place where received instructions on Where to Get Birth Control-1st Mention,SEDWHLC1,raw
+CF-8a Place where received instructions on Where to Get Birth Control-2nd Mention,SEDWHLC2,raw
+CF-8a Place where received instructions on Where to Get Birth Control-3rd Mention,SEDWHLC3,raw
+CF-8a Place where received instructions on Where to Get Birth Control-4th Mention,SEDWHLC4,raw
+CF-9 Rs Grade When Received Instruction on Where to Get Birth Control,SEDWHBCG,raw
+CG-2 1st Partner Already Discussed as a Husband or Cohab Partner,SAMEMAN,raw
+CG-3 Who Was Rs First Sexual Partner,WHOFSTPR,raw
+CG-5 Relationship with 1st Partner at 1st Sex,KNOWFP,raw
+CG-6 Is 1st Sexual Partner a Current Sexual Partner,STILFPSX,raw
+CG-7a Relationship with 1st Partner at Last Sex,FPOTHREL,raw
+CG-7b Highest level of education-first sexual partner,FPEDUC,raw
+CG-7f Relationship with 1st Partner at 1st Sex,FPRN,raw
+CG-7m Month R Last Had Sex With 1st Sexual Partner,LSTSEXFP_M,raw
+CG-7y Year R Last Had Sex With 1st Sexual Partner,LSTSEXFP_Y,raw
+CG-8 First Sexual Intercourse Before or After Menarche,WHICH1ST,raw
+CG-9 Whether R Had Sex Since menarche,SEXAFMEN,raw
+CH-2 # of Male Sex Partners Prior to 1st Marriage (top-coded),PTSB4MAR,raw
+CI_5 Has 2nd-to-last partner already been discussed?,MATCHHP2,raw
+CI_5 Has 3rd-to-last recent partner already been discussed?,MATCHHP3,raw
+CI_5 Has last partner already been discussed?,MATCHHP,raw
+CI_6m Month of Last Sex-2nd-to-last Partner in Last 12 mos,P1YLSEX_M2,raw
+CI_6m Month of Last Sex-3rd-to-last Partner in Last 12 mos,P1YLSEX_M3,raw
+CI_6m Month of Last Sex-Last Partner in Last 12 mos,P1YLSEX_M,raw
+CI_6y Year of Last Sex-2nd-to-last Partner in Last 12 mos,P1YLSEX_Y2,raw
+CI_6y Year of Last Sex-3rd-to-last Partner in Last 12 mos,P1YLSEX_Y3,raw
+CI_6y Year of Last Sex-Last Partner in Last 12 mos,P1YLSEX_Y,raw
+CI-1 Is Rs One Partner in Last 12 Mos Her Current H/P,WHOSNC1Y,raw
+CI-10 Partners Age at 1st Sex-2nd-to-last Partner in Last 12 mos,P1YHSAGE2,raw
+CI-10 Partners Age at 1st Sex-3rd-to-last Partner in Last 12 mos,P1YHSAGE3,raw
+CI-10 Partners Age at 1st Sex-Last in Last 12 mos,P1YHSAGE,raw
+CI-11 Relationship at 1st Sex-2nd-to-last Partner in Last 12 mos,P1YRF2,raw
+CI-11 Relationship at 1st Sex-3rd-to-last Partner in Last 12 mos,P1YRF3,raw
+CI-11 Relationship at 1st Sex-Last Partner in Last 12 mos,P1YRF,raw
+CI-12m Month of 1st Sex-2nd-to-last Partner in Last 12 mos,P1YFSEX_M2,raw
+CI-12m Month of 1st Sex-3rd-to-last Partner in Last 12 mos,P1YFSEX_M3,raw
+CI-12m Month of 1st Sex-Last Partner in Last 12 mos,P1YFSEX_M,raw
+CI-12m Year of 1st Sex-2nd-to-last Partner in Last 12 mos,P1YFSEX_Y2,raw
+CI-12m Year of 1st Sex-3rd-to-last Partner in Last 12 mos,P1YFSEX_Y3,raw
+CI-12m Year of 1st Sex-Last Partner in Last 12 mos,P1YFSEX_Y,raw
+CI-13 Highest Level of Education-2nd-to-last Partner in Last 12 mos,P1YEDUC2,raw
+CI-13 Highest Level of Education-3rd-to-last Partner in Last 12 mos,P1YEDUC3,raw
+CI-13 Highest Level of Education-Last Partner in Last 12 mos,P1YEDUC,raw
+CI-16 Type of Current Relationship-2nd-to-last Partner in Last 12 mos,P1YRN2,raw
+CI-16 Type of Current Relationship-3rd-to-last Partner in Last 12 mos,P1YRN3,raw
+CI-16 Type of Current Relationship-Last Partner in Last 12 mos,P1YRN1,raw
+CI-4 Is 2nd-to-last partner also first partner?,MATCHFP2,raw
+CI-4 Is 3rd-to-last partner also first partner?,MATCHFP3,raw
+CI-4 Is last partner also first partner?,MATCHFP,raw
+CI-7 Whether a Current Sex Partner-2nd-to-last partner in last 12 mos,P1YCURRP2,raw
+CI-7 Whether a Current Sex Partner-3rd-to-last partner in last 12 mos,P1YCURRP3,raw
+CI-7 Whether a Current Sex Partner-last partner in last 12 mos,P1YCURRP1,raw
+CI-8 Relationship at last Sex with last partner,P1YOTHREL,raw
+CI-8 Relationship at last Sex with last partner with 2nd-to-last partner,P1YOTHREL2,raw
+CI-8 Relationship at last Sex with last partner with 3rd-to-last partner,P1YOTHREL3,raw
+CI-9 Age at 1st Sex-2nd-to-last Partner-Last 12 Months,P1YRAGE2,raw
+CI-9 Age at 1st Sex-3rd-to-last Partner-Last 12 Months,P1YRAGE3,raw
+CI-9 Age at 1st Sex-Last Partner-Last 12 Months,P1YRAGE,raw
+CM Date of COVID vaccine (computed in FC J-23b),CMCOVVAX,computed
+CM date of last or most recent sexual intercourse,LSEXDATE,recode
+CM Date of last sex with 2nd-to-last sexual partner for Rs under 18 for CASI,CMCURRP2,computed
+CM Date of last sex with 3rd-to-last sexual partner for Rs under 18 for CASI,CMCURRP3,computed
+CM Date of last sex with most recent sexual partner for Rs under 18 for CASI,CMCURRP1,computed
+CM for date of first method use (total universe) (FC E-18 and E-21),CMFIRSM,computed
+CM for date of first or only sex with 2nd-to-last partner in last 12 months (FC C-78),CMFSEXTOT2,computed
+CM for date of first or only sex with 3rd-to-last partner in last 12 months (FC C-78),CMFSEXTOT3,computed
+CM for date of first or only sex with most recent partner (FC C-78),CMFSEXTOT,computed
+CM for Date of Last or Only Sex with 1st Sexual Partner (FC C-57),CMFPLAST,computed
+CM for Date of Last Sex With 1st Sexual Partner (FC C-57),CMLSEXFP,computed
+CM when first had sex with 2nd-to-last partner reported in last 12 mos (FC C-77),CMFSEX2,computed
+CM when first had sex with 3rd-to-last partner reported in last 12 mos (FC C-77),CMFSEX3,computed
+CM when first had sex with last partner reported in last 12 mos (FC C-77),CMFSEX,computed
+CM when last had sex with 2nd-to-last partner reported in last 12 mos (FC C-71),CMLSEX2,computed
+CM when last had sex with 3rd-to-last partner reported in last 12 mos (FC C-71),CMLSEX3,computed
+CM when last had sex with last partner reported in last 12 mos (FC C-71),CMLSEX1,computed
+COH1DUR imputation flag,COH1DUR_I,imputation flag
+COHAB1 imputation flag,COHAB1_I,imputation flag
+COHSTAT imputation flag,COHSTAT_I,imputation flag
+CONSTAT1 imputation flag,CONSTAT1_I,recode
+CONSTAT2 imputation flag,CONSTAT2_I,imputation flag
+CONSTAT3 imputation flag,CONSTAT3_I,recode
+CONSTAT4 imputation flag,CONSTAT4_I,imputation flag
+CSPBIOKD imputation flag,CSPBIOKD_I,imputation flag
+CURR_INS imputation flag,CURR_INS_I,imputation flag
+Current contraceptive status - 1st priority,CONSTAT1,recode
+Current contraceptive status - 2nd priority,CONSTAT2,imputation flag
+Current contraceptive status - 3rd priority,CONSTAT3,recode
+Current contraceptive status - 4th priority,CONSTAT4,imputation flag
+Current health insurance coverage status,CURR_INS,recode
+Current religious affiliation,RELIGION,recode
+DA-1 R Ever Had Tubes Tied/Cut/Removed,EVERTUBS,raw
+DA-10 R or her H/P had any problems w/other birth control methods used before having tubal sterilization,BCREAS,raw
+DA-11 Type of problem R or H/P had with other birth control methods,BCWHYF,raw
+DA-11b Main reason for R having her tubal sterilization,TUBLMAIN,raw
+DA-12 How bill for tubal sterilization was paid - 1st mention,PAYTUBAL_1,raw
+DA-12 How bill for tubal sterilization was paid - 2nd mention,PAYTUBAL_2,raw
+DA-1y Year or R's tubal sterilization,TUBSDATE_Y,raw
+DA-2 R Ever Had Hysterectomy,EVERHYST,raw
+DA-2y Year of R's hysterectomy,HYSTDATE_Y,raw
+DA-3 Hysterectomy and tubal done in same operation,SAMEOPER,raw
+DA-4 Were ovaries or tubes removed during hysterectomy - 1st mention,OTHROPS1_1,raw
+DA-4 Were ovaries or tubes removed during hysterectomy - 2nd mention,OTHROPS1_2,raw
+DA-5 Were ovaries or tubes removed in other operation - 1st mention,OTHROPS2_1,raw
+DA-5 Were ovaries or tubes removed in other operation - 2nd mention,OTHROPS2_2,raw
+DA-6 Had this other surgery since January 4 years ago,OTHSTER,raw
+DA-7 R had all the children she wanted at time of her tubal sterilization,RHADALL,raw
+DA-8 R's H/P had all the children hhe wanted at time of tubal sterilization,HHADALL,raw
+DA-9 R had any medical reasons for having her tubal sterilization,FMEDREAS,raw
+Date of first intercourse (even if before first menstrual period),VRY1STSX,recode
+Date R used first method for the first time,DATEUSE1,recode
+DATEUSE1 imputation flag,DATEUSE1_I,imputation flag
+DB-1 R's current H/P ever had a vasectomy,ANYVASEC,raw
+DB-2y Year of vasectomy for R's current H/P,VASDATE_Y,raw
+DB-3 was R in relationship w/ current H/P when he had vasectomy,WITHIMOP,raw
+DB-4 Did R's current H/P have his vasectomy since January of 4 years ago,VASJAN4YR,raw
+DB-5 How was bill for vasectomy paid - 1st mention,PAYVAS_1,raw
+DB-5 How was bill for vasectomy paid - 2nd mention,PAYVAS_2,raw
+DC-1 Ever had surgery to reverse tubal sterilization,REVSTUBL,raw
+DC-2y Year of R's tubal sterilization reversal,DATRVSTB_Y,raw
+DC-3 R's Current H/P Ever Had Surgery to Reverse Vasectomy,REVSVASX,raw
+DC-4y Year of current H/Ps vasectomy reversal,DATRVVEX_Y,raw
+DC-5 R Wants to Reverse Her Tubal Ligation,RWANTRVT,raw
+DC-6 R's Current H/P Wants R to Reverse Her Tubal Ligation,MANWANTT,raw
+DC-7 R Wants H/P to Reverse His Vasectomy,RWANTREV,raw
+DC-8 R's current H/P Wants to Reverse His Vasectomy,MANWANTR,raw
+DD-1 Physically Possible for R to Have a Baby,POSIBLPG,raw
+DD-2 Main reason why impossible for R to have a baby,REASIMPR,raw
+DD-3 Physically possible for R's current H/P to father a baby,POSIBLMN,raw
+DD-4 Main reason why impossible for R's current H/P to father a baby,REASIMPP,raw
+DE-1 Physically Difficult for R to Have a Baby,CANHAVER,raw
+DE-2 Why physically difficult for R to have baby (1st mention),REASDIFF_1,raw
+DE-2 Why physically difficult for R to have baby (2nd mention),REASDIFF_2,raw
+DE-2 Why physically difficult for R to have baby (3rd mention),REASDIFF_3,raw
+DE-2 Why physically difficult for R to have baby (4th mention),REASDIFF_4,raw
+DE-2 Why physically difficult for R to have baby (5th mention),REASDIFF_5,raw
+DE-3 R's current H/P has physical difficulty fathering a baby,CANHAVEM,raw
+DE-4 Doctor Ever Advised R Never to Become Pregnant,PREGNONO,raw
+DE-5 Why R was advised against pregnancy - 1st mention,REASNONO_1,raw
+DE-5 Why R was advised against pregnancy - 2nd mention,REASNONO_2,raw
+DE-5 Why R was advised against pregnancy - 3rd mention,REASNONO_3,raw
+DE-6 Recency of last menstrual period,LASTPER,raw
+DE-7 Tried to get pregnant within past 12 months,TRYPREG12,raw
+Detailed wantedness of 10th pregnancy at time of conception -- Respondent,NWWANTRP10,computed in post-processing
+Detailed wantedness of 11th pregnancy at time of conception -- Respondent,NWWANTRP11,computed in post-processing
+Detailed wantedness of 12th pregnancy at time of conception -- Respondent,NWWANTRP12,computed in post-processing
+Detailed wantedness of 13th pregnancy at time of conception -- Respondent,NWWANTRP13,computed in post-processing
+Detailed wantedness of 14th pregnancy at time of conception -- Respondent,NWWANTRP14,computed in post-processing
+Detailed wantedness of 15th pregnancy at time of conception -- Respondent,NWWANTRP15,computed in post-processing
+Detailed wantedness of 16th pregnancy at time of conception -- Respondent,NWWANTRP16,computed in post-processing
+Detailed wantedness of 1st pregnancy at time of conception -- Respondent,NWWANTRP1,computed in post-processing
+Detailed wantedness of 2nd pregnancy at time of conception -- Respondent,NWWANTRP2,computed in post-processing
+Detailed wantedness of 3rd pregnancy at time of conception -- Respondent,NWWANTRP3,computed in post-processing
+Detailed wantedness of 4th pregnancy at time of conception -- Respondent,NWWANTRP4,computed in post-processing
+Detailed wantedness of 5th pregnancy at time of conception -- Respondent,NWWANTRP5,computed in post-processing
+Detailed wantedness of 6th pregnancy at time of conception -- Respondent,NWWANTRP6,computed in post-processing
+Detailed wantedness of 7th pregnancy at time of conception -- Respondent,NWWANTRP7,computed in post-processing
+Detailed wantedness of 8th pregnancy at time of conception -- Respondent,NWWANTRP8,computed in post-processing
+Detailed wantedness of 9th pregnancy at time of conception -- Respondent,NWWANTRP9,computed in post-processing
+Device used to complete web main interview,DEVICE_TYPE,computed
+Duration (in months) of R's first cohabitation to a man,COH1DUR,recode
+EA-1 R ever used Birth Control Pills?,PILL,raw
+EA-10 R ever used contraceptive ring?,RING,raw
+EA-11 R ever used emergency contraception?,MORNPILL,raw
+EA-12 Number of times R used emergency contraception,ECTIMESX,raw
+EA-13a Where R last got emergency contraception,ECWHERE,raw
+EA-13aa Where R last got emergency contraception,ECRX,raw
+EA-13b When R last got emergency contraception,ECWHEN,raw
+EA-13c R ever used a hormonal implant,IMPLANT,raw
+EA-13d R ever used an IUD (intrauterine device),IUD,raw
+EA-13e Types of IUD ever used-1st mention,EVIUDTYP1,raw
+EA-13e Types of IUD ever used-2nd mention,EVIUDTYP2,raw
+EA-13f Copper IUD as emergency contraception,EVCIUDEC,raw
+EA-14 Any other methods R used for contraception (if any)-1st mention,OTHRMETH01,raw
+EA-14 Any other methods R used for contraception (if any)-2nd mention,OTHRMETH02,raw
+EA-14 Any other methods R used for contraception (if any)-3rd mention,OTHRMETH03,raw
+EA-14 Any other methods R used for contraception (if any)-4th mention,OTHRMETH04,raw
+EA-14 Any other methods R used for contraception (if any)-5th mention,OTHRMETH05,raw
+EA-14 Any other methods R used for contraception (if any)-6th mention,OTHRMETH06,raw
+EA-16 R ever stop using method because dissatisfied with it,METHDISS,raw
+EA-17 Method Stopped Using Due to Dissatisfaction-1st Method,METHSTOP01,raw
+EA-17 Method Stopped Using Due to Dissatisfaction-2nd Method,METHSTOP02,raw
+EA-17 Method Stopped Using Due to Dissatisfaction-3rd Method,METHSTOP03,raw
+EA-17 Method Stopped Using Due to Dissatisfaction-4th Method,METHSTOP04,raw
+EA-17 Method Stopped Using Due to Dissatisfaction-5th Method,METHSTOP05,raw
+EA-17 Method Stopped Using Due to Dissatisfaction-6th Method,METHSTOP06,raw
+EA-17 Method Stopped Using Due to Dissatisfaction-7th Method,METHSTOP07,raw
+EA-17 Method Stopped Using Due to Dissatisfaction-8th Method,METHSTOP08,raw
+EA-17 Method Stopped Using Due to Dissatisfaction-9th Method,METHSTOP09,raw
+EA-17a Whether discontinued pill within past 12 months,WHENPILL,raw
+"EA-18 Reason Dissatisfied with Pill, 1st reason",REASPILL01,raw
+"EA-18 Reason Dissatisfied with Pill, 2nd reason",REASPILL02,raw
+"EA-18 Reason Dissatisfied with Pill, 3rd reason",REASPILL03,raw
+"EA-18 Reason Dissatisfied with Pill, 4th reason",REASPILL04,raw
+"EA-18 Reason Dissatisfied with Pill, 5th reason",REASPILL05,raw
+"EA-18 Reason Dissatisfied with Pill, 6th reason",REASPILL06,raw
+"EA-18 Reason Dissatisfied with Pill, 7th reason",REASPILL07,raw
+EA-18e Whether discontinued condom within past 12 months,WHENCOND,raw
+"EA-19 Reason Dissatisfied with condoms, 1st reason",REASCOND01,raw
+"EA-19 Reason Dissatisfied with condoms, 2nd reason",REASCOND02,raw
+"EA-19 Reason Dissatisfied with condoms, 3rd reason",REASCOND03,raw
+"EA-19 Reason Dissatisfied with condoms, 4th reason",REASCOND04,raw
+"EA-19 Reason Dissatisfied with condoms, 5th reason",REASCOND05,raw
+"EA-19 Reason Dissatisfied with condoms, 6th reason",REASCOND06,raw
+"EA-19 Reason Dissatisfied with condoms, 7th reason",REASCOND07,raw
+"EA-19 Reason Dissatisfied with condoms, 8th reason",REASCOND08,raw
+EA-2 R ever used Condoms?,CONDOM,raw
+EA-20e Whether discontinued IUD within past 12 months,WHENIUD,raw
+EA-21 Discontinued use of IUD Type-1st mention,TYPEIUD_1,raw
+EA-21 Discontinued use of IUD Type-2nd mention,TYPEIUD_2,raw
+"EA-21 Reason Dissatisfied with IUD, 1st reason",REASIUD01,raw
+"EA-21 Reason Dissatisfied with IUD, 2nd reason",REASIUD02,raw
+"EA-21 Reason Dissatisfied with IUD, 3rd reason",REASIUD03,raw
+"EA-21 Reason Dissatisfied with IUD, 4th reason",REASIUD04,raw
+"EA-21 Reason Dissatisfied with IUD, 5th reason",REASIUD05,raw
+"EA-21 Reason Dissatisfied with IUD, 6th reason",REASIUD06,raw
+EA-3 R ever used partners vasectomy?,VASECTMY,raw
+"EA-4 R ever used Depo-Provera, Injectables?",DEPOPROV,raw
+EA-6 R ever used withdrawal?,WIDRAWAL,raw
+EA-7a R ever used Calendar rhythm method?,RHYTHM,raw
+EA-7b R ever used Standard Days or CycleBeads method?,SDAYCBDS,raw
+EA-8 R ever used Safe period by temperature or cervical mucus test?,TEMPSAFE,raw
+EA-8b R ever used the Natural Cycles app to prevent pregnancy?,NATCYCA,raw
+EA-9 R ever used contraceptive patch?,PATCH,raw
+EB-1 First method ever used - 1st mention,FIRSMETH1,raw
+EB-1 First method ever used - 2nd mention,FIRSMETH2,raw
+EB-1 First method ever used - 3rd mention,FIRSMETH3,raw
+EB-1 First method ever used - 4th mention,FIRSMETH4,raw
+EB-2 when 1st method use vis-a-vis 1st sex (noncontinuous meth),FIRSTIME1,raw
+EB-2 when first method use vis-a-vis 1st sex (continuous method),FIRSTIME2,raw
+EB-3m Month R First Used a Method,WNFSTUSE_M,raw
+EB-3y Year R First Used a Method,WNFSTUSE_Y,raw
+EB-4 Age When First Used Method,AGEFSTUS,raw
+EB-6 R Use Any Method at First Sex (1st meth use was bef 1st sx),USEFRSTS,raw
+EB-8 Method Used at First Sex-1st mention,MTHFRSTS1,raw
+EB-8 Method Used at First Sex-2nd mention,MTHFRSTS2,raw
+EB-8 Method Used at First Sex-3rd mention,MTHFRSTS3,raw
+EB-8 Method Used at First Sex-4th mention,MTHFRSTS4,raw
+"EC-3 Any times since [Jan,intvw yr-3/date 1st sex] no sex for 1 mon?",INTR_EC3,raw
+EC-8 Sex in April [intvw yr]?,MONSX40,raw
+EC-8 Sex in April [intvw yr-1]?,MONSX28,raw
+EC-8 Sex in April [intvw yr-2]?,MONSX16,raw
+EC-8 Sex in April [intvw yr-3]?,MONSX4,raw
+EC-8 Sex in August [intvw yr]?,MONSX44,raw
+EC-8 Sex in August [intvw yr-1]?,MONSX32,raw
+EC-8 Sex in August [intvw yr-2]?,MONSX20,raw
+EC-8 Sex in August [intvw yr-3]?,MONSX8,raw
+EC-8 Sex in December [intvw yr]?,MONSX48,raw
+EC-8 Sex in December [intvw yr-1]?,MONSX36,raw
+EC-8 Sex in December [intvw yr-2]?,MONSX24,raw
+EC-8 Sex in December [intvw yr-3]?,MONSX12,raw
+EC-8 Sex in February [intvw yr]?,MONSX38,raw
+EC-8 Sex in February [intvw yr-1]?,MONSX26,raw
+EC-8 Sex in February [intvw yr-2]?,MONSX14,raw
+EC-8 Sex in February [intvw yr-3]?,MONSX2,raw
+EC-8 Sex in January [intvw yr]?,MONSX37,raw
+EC-8 Sex in January [intvw yr-1]?,MONSX25,raw
+EC-8 Sex in January [intvw yr-2]?,MONSX13,raw
+EC-8 Sex in January [intvw yr-3]?,MONSX,raw
+EC-8 Sex in July [intvw yr]?,MONSX43,raw
+EC-8 Sex in July [intvw yr-1]?,MONSX31,raw
+EC-8 Sex in July [intvw yr-2]?,MONSX19,raw
+EC-8 Sex in July [intvw yr-3]?,MONSX7,raw
+EC-8 Sex in June [intvw yr]?,MONSX42,raw
+EC-8 Sex in June [intvw yr-]?,MONSX18,raw
+EC-8 Sex in June [intvw yr-1]?,MONSX30,raw
+EC-8 Sex in June [intvw yr-3]?,MONSX6,raw
+EC-8 Sex in March [intvw yr]?,MONSX39,raw
+EC-8 Sex in March [intvw yr-1]?,MONSX27,raw
+EC-8 Sex in March [intvw yr-2]?,MONSX15,raw
+EC-8 Sex in March [intvw yr-3]?,MONSX3,raw
+EC-8 Sex in May [intvw yr]?,MONSX41,raw
+EC-8 Sex in May [intvw yr-1]?,MONSX29,raw
+EC-8 Sex in May [intvw yr-2]?,MONSX17,raw
+EC-8 Sex in May [intvw yr-3]?,MONSX5,raw
+EC-8 Sex in November [intvw yr]?,MONSX47,raw
+EC-8 Sex in November [intvw yr-1]?,MONSX35,raw
+EC-8 Sex in November [intvw yr-2]?,MONSX23,raw
+EC-8 Sex in November [intvw yr-3]?,MONSX11,raw
+EC-8 Sex in October [intvw yr]?,MONSX46,raw
+EC-8 Sex in October [intvw yr-1]?,MONSX34,raw
+EC-8 Sex in October [intvw yr-2]?,MONSX22,raw
+EC-8 Sex in October [intvw yr-3]?,MONSX10,raw
+EC-8 Sex in September [intvw yr]?,MONSX45,raw
+EC-8 Sex in September [intvw yr-]?,MONSX21,raw
+EC-8 Sex in September [intvw yr-1]?,MONSX33,raw
+EC-8 Sex in September [intvw yr-3]?,MONSX9,raw
+ED-10 Use Methods Together or at Different Times - April [interview yr],SIMSEQX40,raw
+ED-10 Use Methods Together or at Different Times - April [interview yr-1],SIMSEQX28,raw
+ED-10 Use Methods Together or at Different Times - April [interview yr-2],SIMSEQX16,raw
+ED-10 Use Methods Together or at Different Times - April [interview yr-3],SIMSEQX4,raw
+ED-10 Use Methods Together or at Different Times - Aug [interview yr],SIMSEQX44,raw
+ED-10 Use Methods Together or at Different Times - Aug [interview yr-1],SIMSEQX32,raw
+ED-10 Use Methods Together or at Different Times - Aug [interview yr-2],SIMSEQX20,raw
+ED-10 Use Methods Together or at Different Times - Aug [interview yr-3],SIMSEQX8,raw
+ED-10 Use Methods Together or at Different Times - Dec [interview yr],SIMSEQX48,raw
+ED-10 Use Methods Together or at Different Times - Dec [interview yr-1],SIMSEQX36,raw
+ED-10 Use Methods Together or at Different Times - Dec [interview yr-2],SIMSEQX24,raw
+ED-10 Use Methods Together or at Different Times - Dec [interview yr-3],SIMSEQX12,raw
+ED-10 Use Methods Together or at Different Times - Feb [interview yr],SIMSEQX38,raw
+ED-10 Use Methods Together or at Different Times - Feb [interview yr-1],SIMSEQX26,raw
+ED-10 Use Methods Together or at Different Times - Feb [interview yr-2],SIMSEQX14,raw
+ED-10 Use Methods Together or at Different Times - Feb [interview yr-3],SIMSEQX2,raw
+ED-10 Use Methods Together or at Different Times - Jan [interview yr],SIMSEQX37,raw
+ED-10 Use Methods Together or at Different Times - Jan [interview yr-1],SIMSEQX25,raw
+ED-10 Use Methods Together or at Different Times - Jan [interview yr-2],SIMSEQX13,raw
+ED-10 Use Methods Together or at Different Times - Jan [interview yr-3],SIMSEQX1,raw
+ED-10 Use Methods Together or at Different Times - July [interview yr],SIMSEQX43,raw
+ED-10 Use Methods Together or at Different Times - July [interview yr-1],SIMSEQX31,raw
+ED-10 Use Methods Together or at Different Times - July [interview yr-2],SIMSEQX19,raw
+ED-10 Use Methods Together or at Different Times - July [interview yr-3],SIMSEQX7,raw
+ED-10 Use Methods Together or at Different Times - June [interview yr],SIMSEQX42,raw
+ED-10 Use Methods Together or at Different Times - June [interview yr-1],SIMSEQX30,raw
+ED-10 Use Methods Together or at Different Times - June [interview yr-2],SIMSEQX18,raw
+ED-10 Use Methods Together or at Different Times - June [interview yr-3],SIMSEQX6,raw
+ED-10 Use Methods Together or at Different Times - Mar [interview yr],SIMSEQX39,raw
+ED-10 Use Methods Together or at Different Times - Mar [interview yr-1],SIMSEQX27,raw
+ED-10 Use Methods Together or at Different Times - Mar [interview yr-2],SIMSEQX15,raw
+ED-10 Use Methods Together or at Different Times - Mar [interview yr-3],SIMSEQX3,raw
+ED-10 Use Methods Together or at Different Times - May [interview yr],SIMSEQX41,raw
+ED-10 Use Methods Together or at Different Times - May [interview yr-1],SIMSEQX29,raw
+ED-10 Use Methods Together or at Different Times - May [interview yr-2],SIMSEQX17,raw
+ED-10 Use Methods Together or at Different Times - May [interview yr-3],SIMSEQX5,raw
+ED-10 Use Methods Together or at Different Times - Nov [interview yr],SIMSEQX47,raw
+ED-10 Use Methods Together or at Different Times - Nov [interview yr-1],SIMSEQX35,raw
+ED-10 Use Methods Together or at Different Times - Nov [interview yr-2],SIMSEQX23,raw
+ED-10 Use Methods Together or at Different Times - Nov [interview yr-3],SIMSEQX11,raw
+ED-10 Use Methods Together or at Different Times - Oct [interview yr],SIMSEQX46,raw
+ED-10 Use Methods Together or at Different Times - Oct [interview yr-1],SIMSEQX34,raw
+ED-10 Use Methods Together or at Different Times - Oct [interview yr-2],SIMSEQX22,raw
+ED-10 Use Methods Together or at Different Times - Oct [interview yr-3],SIMSEQX10,raw
+ED-10 Use Methods Together or at Different Times - Sept [interview yr],SIMSEQX45,raw
+ED-10 Use Methods Together or at Different Times - Sept [interview yr-1],SIMSEQX33,raw
+ED-10 Use Methods Together or at Different Times - Sept [interview yr-2],SIMSEQX21,raw
+ED-10 Use Methods Together or at Different Times - Sept [interview yr-3],SIMSEQX9,raw
+ED-4a R used methods other than hysterectomy during MH Calendar period,INTR_ED4A,raw
+ED-6 Method(s) used in Apr [interview yr] - 1st mention,METHX157,raw
+ED-6 Method(s) used in Apr [interview yr] - 2nd mention,METHX158,raw
+ED-6 Method(s) used in Apr [interview yr] - 3rd mention,METHX159,raw
+ED-6 Method(s) used in Apr [interview yr] - 4th mention,METHX160,raw
+ED-6 Method(s) used in Apr [interview yr-1] - 1st mention,METHX109,raw
+ED-6 Method(s) used in Apr [interview yr-1] - 2nd mention,METHX110,raw
+ED-6 Method(s) used in Apr [interview yr-1] - 3rd mention,METHX111,raw
+ED-6 Method(s) used in Apr [interview yr-1] - 4th mention,METHX112,raw
+ED-6 Method(s) used in Apr [interview yr-2] - 1st mention,METHX61,raw
+ED-6 Method(s) used in Apr [interview yr-2] - 2nd mention,METHX62,raw
+ED-6 Method(s) used in Apr [interview yr-2] - 3rd mention,METHX63,raw
+ED-6 Method(s) used in Apr [interview yr-2] - 4th mention,METHX64,raw
+ED-6 Method(s) used in Apr [interview yr-3] - 1st mention,METHX13,raw
+ED-6 Method(s) used in Apr [interview yr-3] - 2nd mention,METHX14,raw
+ED-6 Method(s) used in Apr [interview yr-3] - 3rd mention,METHX15,raw
+ED-6 Method(s) used in Apr [interview yr-3] - 4th mention,METHX16,raw
+ED-6 Method(s) used in Aug [interview yr] - 1st mention,METHX173,raw
+ED-6 Method(s) used in Aug [interview yr] - 2nd mention,METHX174,raw
+ED-6 Method(s) used in Aug [interview yr] - 3rd mention,METHX175,raw
+ED-6 Method(s) used in Aug [interview yr] - 4th mention,METHX176,raw
+ED-6 Method(s) used in Aug [interview yr-1] - 1st mention,METHX125,raw
+ED-6 Method(s) used in Aug [interview yr-1] - 2nd mention,METHX126,raw
+ED-6 Method(s) used in Aug [interview yr-1] - 3rd mention,METHX127,raw
+ED-6 Method(s) used in Aug [interview yr-1] - 4th mention,METHX128,raw
+ED-6 Method(s) used in Aug [interview yr-2] - 1st mention,METHX77,raw
+ED-6 Method(s) used in Aug [interview yr-2] - 2nd mention,METHX78,raw
+ED-6 Method(s) used in Aug [interview yr-2] - 3rd mention,METHX79,raw
+ED-6 Method(s) used in Aug [interview yr-2] - 4th mention,METHX80,raw
+ED-6 Method(s) used in Aug [interview yr-3] - 1st mention,METHX29,raw
+ED-6 Method(s) used in Aug [interview yr-3] - 2nd mention,METHX30,raw
+ED-6 Method(s) used in Aug [interview yr-3] - 3rd mention,METHX31,raw
+ED-6 Method(s) used in Aug [interview yr-3] - 4th mention,METHX32,raw
+ED-6 Method(s) used in Dec [interview yr] - 1st mention,METHX189,raw
+ED-6 Method(s) used in Dec [interview yr] - 2nd mention,METHX190,raw
+ED-6 Method(s) used in Dec [interview yr] - 3rd mention,METHX191,raw
+ED-6 Method(s) used in Dec [interview yr] - 4th mention,METHX192,raw
+ED-6 Method(s) used in Dec [interview yr-1] - 1st mention,METHX141,raw
+ED-6 Method(s) used in Dec [interview yr-1] - 2nd mention,METHX142,raw
+ED-6 Method(s) used in Dec [interview yr-1] - 3rd mention,METHX143,raw
+ED-6 Method(s) used in Dec [interview yr-1] - 4th mention,METHX144,raw
+ED-6 Method(s) used in Dec [interview yr-2] - 1st mention,METHX93,raw
+ED-6 Method(s) used in Dec [interview yr-2] - 2nd mention,METHX94,raw
+ED-6 Method(s) used in Dec [interview yr-2] - 3rd mention,METHX95,raw
+ED-6 Method(s) used in Dec [interview yr-2] - 4th mention,METHX96,raw
+ED-6 Method(s) used in Dec [interview yr-3] - 1st mention,METHX45,raw
+ED-6 Method(s) used in Dec [interview yr-3] - 2nd mention,METHX46,raw
+ED-6 Method(s) used in Dec [interview yr-3] - 3rd mention,METHX47,raw
+ED-6 Method(s) used in Dec [interview yr-3] - 4th mention,METHX48,raw
+ED-6 Method(s) used in Feb [interview yr] - 1st mention,METHX149,raw
+ED-6 Method(s) used in Feb [interview yr] - 2nd mention,METHX150,raw
+ED-6 Method(s) used in Feb [interview yr] - 3rd mention,METHX151,raw
+ED-6 Method(s) used in Feb [interview yr] - 4th mention,METHX152,raw
+ED-6 Method(s) used in Feb [interview yr-1] - 1st mention,METHX101,raw
+ED-6 Method(s) used in Feb [interview yr-1] - 2nd mention,METHX102,raw
+ED-6 Method(s) used in Feb [interview yr-1] - 3rd mention,METHX103,raw
+ED-6 Method(s) used in Feb [interview yr-1] - 4th mention,METHX104,raw
+ED-6 Method(s) used in Feb [interview yr-2] - 1st mention,METHX53,raw
+ED-6 Method(s) used in Feb [interview yr-2] - 2nd mention,METHX54,raw
+ED-6 Method(s) used in Feb [interview yr-2] - 3rd mention,METHX55,raw
+ED-6 Method(s) used in Feb [interview yr-2] - 4th mention,METHX56,raw
+ED-6 Method(s) used in Feb [interview yr-3] - 1st mention,METHX5,raw
+ED-6 Method(s) used in Feb [interview yr-3] - 2nd mention,METHX6,raw
+ED-6 Method(s) used in Feb [interview yr-3] - 3rd mention,METHX7,raw
+ED-6 Method(s) used in Feb [interview yr-3] - 4th mention,METHX8,raw
+ED-6 Method(s) used in Jan [interview yr] - 1st mention,METHX145,raw
+ED-6 Method(s) used in Jan [interview yr] - 2nd mention,METHX146,raw
+ED-6 Method(s) used in Jan [interview yr] - 3rd mention,METHX147,raw
+ED-6 Method(s) used in Jan [interview yr] - 4th mention,METHX148,raw
+ED-6 Method(s) used in Jan [interview yr-1] - 1st mention,METHX97,raw
+ED-6 Method(s) used in Jan [interview yr-1] - 2nd mention,METHX98,raw
+ED-6 Method(s) used in Jan [interview yr-1] - 3rd mention,METHX99,raw
+ED-6 Method(s) used in Jan [interview yr-1] - 4th mention,METHX100,raw
+ED-6 Method(s) used in Jan [interview yr-2] - 1st mention,METHX49,raw
+ED-6 Method(s) used in Jan [interview yr-2] - 2nd mention,METHX50,raw
+ED-6 Method(s) used in Jan [interview yr-2] - 3rd mention,METHX51,raw
+ED-6 Method(s) used in Jan [interview yr-2] - 4th mention,METHX52,raw
+ED-6 Method(s) used in Jan [interview yr-3] - 1st mention,METHX1,raw
+ED-6 Method(s) used in Jan [interview yr-3] - 2nd mention,METHX2,raw
+ED-6 Method(s) used in Jan [interview yr-3] - 3rd mention,METHX3,raw
+ED-6 Method(s) used in Jan [interview yr-3] - 4th mention,METHX4,raw
+ED-6 Method(s) used in July [interview yr] - 1st mention,METHX169,raw
+ED-6 Method(s) used in July [interview yr] - 2nd mention,METHX170,raw
+ED-6 Method(s) used in July [interview yr] - 3rd mention,METHX171,raw
+ED-6 Method(s) used in July [interview yr] - 4th mention,METHX172,raw
+ED-6 Method(s) used in July [interview yr-1] - 1st mention,METHX121,raw
+ED-6 Method(s) used in July [interview yr-1] - 2nd mention,METHX122,raw
+ED-6 Method(s) used in July [interview yr-1] - 3rd mention,METHX123,raw
+ED-6 Method(s) used in July [interview yr-1] - 4th mention,METHX124,raw
+ED-6 Method(s) used in July [interview yr-2] - 1st mention,METHX73,raw
+ED-6 Method(s) used in July [interview yr-2] - 2nd mention,METHX74,raw
+ED-6 Method(s) used in July [interview yr-2] - 3rd mention,METHX75,raw
+ED-6 Method(s) used in July [interview yr-2] - 4th mention,METHX76,raw
+ED-6 Method(s) used in July [interview yr-3] - 1st mention,METHX25,raw
+ED-6 Method(s) used in July [interview yr-3] - 2nd mention,METHX26,raw
+ED-6 Method(s) used in July [interview yr-3] - 3rd mention,METHX27,raw
+ED-6 Method(s) used in July [interview yr-3] - 4th mention,METHX28,raw
+ED-6 Method(s) used in June [interview yr] - 1st mention,METHX165,raw
+ED-6 Method(s) used in June [interview yr] - 2nd mention,METHX166,raw
+ED-6 Method(s) used in June [interview yr] - 3rd mention,METHX167,raw
+ED-6 Method(s) used in June [interview yr] - 4th mention,METHX168,raw
+ED-6 Method(s) used in June [interview yr-1] - 1st mention,METHX117,raw
+ED-6 Method(s) used in June [interview yr-1] - 2nd mention,METHX118,raw
+ED-6 Method(s) used in June [interview yr-1] - 3rd mention,METHX119,raw
+ED-6 Method(s) used in June [interview yr-1] - 4th mention,METHX120,raw
+ED-6 Method(s) used in June [interview yr-2] - 1st mention,METHX69,raw
+ED-6 Method(s) used in June [interview yr-2] - 2nd mention,METHX70,raw
+ED-6 Method(s) used in June [interview yr-2] - 3rd mention,METHX71,raw
+ED-6 Method(s) used in June [interview yr-2] - 4th mention,METHX72,raw
+ED-6 Method(s) used in June [interview yr-3] - 1st mention,METHX21,raw
+ED-6 Method(s) used in June [interview yr-3] - 2nd mention,METHX22,raw
+ED-6 Method(s) used in June [interview yr-3] - 3rd mention,METHX23,raw
+ED-6 Method(s) used in June [interview yr-3] - 4th mention,METHX24,raw
+ED-6 Method(s) used in Mar [interview yr] - 1st mention,METHX153,raw
+ED-6 Method(s) used in Mar [interview yr] - 2nd mention,METHX154,raw
+ED-6 Method(s) used in Mar [interview yr] - 3rd mention,METHX155,raw
+ED-6 Method(s) used in Mar [interview yr] - 4th mention,METHX156,raw
+ED-6 Method(s) used in Mar [interview yr-1] - 1st mention,METHX105,raw
+ED-6 Method(s) used in Mar [interview yr-1] - 2nd mention,METHX106,raw
+ED-6 Method(s) used in Mar [interview yr-1] - 3rd mention,METHX107,raw
+ED-6 Method(s) used in Mar [interview yr-1] - 4th mention,METHX108,raw
+ED-6 Method(s) used in Mar [interview yr-2] - 1st mention,METHX57,raw
+ED-6 Method(s) used in Mar [interview yr-2] - 2nd mention,METHX58,raw
+ED-6 Method(s) used in Mar [interview yr-2] - 3rd mention,METHX59,raw
+ED-6 Method(s) used in Mar [interview yr-2] - 4th mention,METHX60,raw
+ED-6 Method(s) used in Mar [interview yr-3] - 1st mention,METHX9,raw
+ED-6 Method(s) used in Mar [interview yr-3] - 2nd mention,METHX10,raw
+ED-6 Method(s) used in Mar [interview yr-3] - 3rd mention,METHX11,raw
+ED-6 Method(s) used in Mar [interview yr-3] - 4th mention,METHX12,raw
+ED-6 Method(s) used in May [interview yr] - 1st mention,METHX161,raw
+ED-6 Method(s) used in May [interview yr] - 2nd mention,METHX162,raw
+ED-6 Method(s) used in May [interview yr] - 3rd mention,METHX163,raw
+ED-6 Method(s) used in May [interview yr] - 4th mention,METHX164,raw
+ED-6 Method(s) used in May [interview yr-1] - 1st mention,METHX113,raw
+ED-6 Method(s) used in May [interview yr-1] - 2nd mention,METHX114,raw
+ED-6 Method(s) used in May [interview yr-1] - 3rd mention,METHX115,raw
+ED-6 Method(s) used in May [interview yr-1] - 4th mention,METHX116,raw
+ED-6 Method(s) used in May [interview yr-2] - 1st mention,METHX65,raw
+ED-6 Method(s) used in May [interview yr-2] - 2nd mention,METHX66,raw
+ED-6 Method(s) used in May [interview yr-2] - 3rd mention,METHX67,raw
+ED-6 Method(s) used in May [interview yr-2] - 4th mention,METHX68,raw
+ED-6 Method(s) used in May [interview yr-3] - 1st mention,METHX17,raw
+ED-6 Method(s) used in May [interview yr-3] - 2nd mention,METHX18,raw
+ED-6 Method(s) used in May [interview yr-3] - 3rd mention,METHX19,raw
+ED-6 Method(s) used in May [interview yr-3] - 4th mention,METHX20,raw
+ED-6 Method(s) used in Nov [interview yr] - 1st mention,METHX185,raw
+ED-6 Method(s) used in Nov [interview yr] - 2nd mention,METHX186,raw
+ED-6 Method(s) used in Nov [interview yr] - 3rd mention,METHX187,raw
+ED-6 Method(s) used in Nov [interview yr] - 4th mention,METHX188,raw
+ED-6 Method(s) used in Nov [interview yr-1] - 1st mention,METHX137,raw
+ED-6 Method(s) used in Nov [interview yr-1] - 2nd mention,METHX138,raw
+ED-6 Method(s) used in Nov [interview yr-1] - 3rd mention,METHX139,raw
+ED-6 Method(s) used in Nov [interview yr-1] - 4th mention,METHX140,raw
+ED-6 Method(s) used in Nov [interview yr-2] - 1st mention,METHX89,raw
+ED-6 Method(s) used in Nov [interview yr-2] - 2nd mention,METHX90,raw
+ED-6 Method(s) used in Nov [interview yr-2] - 3rd mention,METHX91,raw
+ED-6 Method(s) used in Nov [interview yr-2] - 4th mention,METHX92,raw
+ED-6 Method(s) used in Nov [interview yr-3] - 1st mention,METHX41,raw
+ED-6 Method(s) used in Nov [interview yr-3] - 2nd mention,METHX42,raw
+ED-6 Method(s) used in Nov [interview yr-3] - 3rd mention,METHX43,raw
+ED-6 Method(s) used in Nov [interview yr-3] - 4th mention,METHX44,raw
+ED-6 Method(s) used in Oct [interview yr] - 1st mention,METHX181,raw
+ED-6 Method(s) used in Oct [interview yr] - 2nd mention,METHX182,raw
+ED-6 Method(s) used in Oct [interview yr] - 3rd mention,METHX183,raw
+ED-6 Method(s) used in Oct [interview yr] - 4th mention,METHX184,raw
+ED-6 Method(s) used in Oct [interview yr-1] - 1st mention,METHX133,raw
+ED-6 Method(s) used in Oct [interview yr-1] - 2nd mention,METHX134,raw
+ED-6 Method(s) used in Oct [interview yr-1] - 3rd mention,METHX135,raw
+ED-6 Method(s) used in Oct [interview yr-1] - 4th mention,METHX136,raw
+ED-6 Method(s) used in Oct [interview yr-2] - 1st mention,METHX85,raw
+ED-6 Method(s) used in Oct [interview yr-2] - 2nd mention,METHX86,raw
+ED-6 Method(s) used in Oct [interview yr-2] - 3rd mention,METHX87,raw
+ED-6 Method(s) used in Oct [interview yr-2] - 4th mention,METHX88,raw
+ED-6 Method(s) used in Oct [interview yr-3] - 1st mention,METHX37,raw
+ED-6 Method(s) used in Oct [interview yr-3] - 2nd mention,METHX38,raw
+ED-6 Method(s) used in Oct [interview yr-3] - 3rd mention,METHX39,raw
+ED-6 Method(s) used in Oct [interview yr-3] - 4th mention,METHX40,raw
+ED-6 Method(s) used in Sep [interview yr-2] - 4th mention,METHX84,raw
+ED-6 Method(s) used in Sept [interview yr] - 1st mention,METHX177,raw
+ED-6 Method(s) used in Sept [interview yr] - 2nd mention,METHX178,raw
+ED-6 Method(s) used in Sept [interview yr] - 3rd mention,METHX179,raw
+ED-6 Method(s) used in Sept [interview yr] - 4th mention,METHX180,raw
+ED-6 Method(s) used in Sept [interview yr-1] - 1st mention,METHX129,raw
+ED-6 Method(s) used in Sept [interview yr-1] - 2nd mention,METHX130,raw
+ED-6 Method(s) used in Sept [interview yr-1] - 3rd mention,METHX131,raw
+ED-6 Method(s) used in Sept [interview yr-1] - 4th mention,METHX132,raw
+ED-6 Method(s) used in Sept [interview yr-2] - 1st mention,METHX81,raw
+ED-6 Method(s) used in Sept [interview yr-2] - 2nd mention,METHX82,raw
+ED-6 Method(s) used in Sept [interview yr-2] - 3rd mention,METHX83,raw
+ED-6 Method(s) used in Sept [interview yr-3] - 1st mention,METHX33,raw
+ED-6 Method(s) used in Sept [interview yr-3] - 2nd mention,METHX34,raw
+ED-6 Method(s) used in Sept [interview yr-3] - 3rd mention,METHX35,raw
+ED-6 Method(s) used in Sept [interview yr-3] - 4th mention,METHX36,raw
+ED-9a # of months using method specified in 1st MC month,MC1MONS1,raw
+ED-9b Using methods in 1st MC month at same or diff times,MC1SIMSQ,raw
+ED-9c # of months using methods together (1st MC month),MC1MONS2,raw
+Ed-9d # of months using method combinations (1st MC month),MC1MONS3,raw
+ED-9m Month R Began Using Method/method combo,DATBEGIN_M,raw
+ED-9y Year R Began Using Method/method combo,DATBEGIN_Y,raw
+EDUCMOM imputation flag,EDUCMOM_I,imputation flag
+EF-1 Use Method at Last Sex with 2nd-to-lastpartner in past 12 months?,USELSTP2,raw
+EF-1 Use Method at Last Sex with 3rd-to-last partner in past 12 months?,USELSTP3,raw
+EF-1 Use Method at Last Sex with last partner in past 12 months?,USELSTP,raw
+EF-1b No BC use with 2nd-to-last partner bec you wanted preg?,WYNOLSTP2,raw
+EF-1b No BC use with 3rd-to-last partner bec you wanted preg?,WYNOLSTP3,raw
+EF-1b No BC use with last partner bec you wanted preg?,WYNOLSTP,raw
+EF-1c No BC use with 2nd-to-last partner bec he wanted you to become preg?,HPLSTP2,raw
+EF-1c No BC use with 3rd-to-last partner bec he wanted you to become preg?,HPLSTP3,raw
+EF-1c No BC use with last partner bec he wanted you to become preg?,HPLSTP,raw
+EF-2 Method Used at Last Sex with 2nd-to-last partner in past 12 mons -1st mention,LSTMTHP5,raw
+EF-2 Method Used at Last Sex with 2nd-to-last partner in past 12 mons -2nd mention,LSTMTHP6,raw
+EF-2 Method Used at Last Sex with 2nd-to-last partner in past 12 mons -3rd mention,LSTMTHP7,raw
+EF-2 Method Used at Last Sex with 2nd-to-last partner in past 12 mons -4th mention,LSTMTHP8,raw
+EF-2 Method Used at Last Sex with 3rd-to-last partner in past 12 mons -1st mention,LSTMTHP9,raw
+EF-2 Method Used at Last Sex with 3rd-to-last partner in past 12 mons -2nd mention,LSTMTHP10,raw
+EF-2 Method Used at Last Sex with 3rd-to-last partner in past 12 mons -3rd mention,LSTMTHP11,raw
+EF-2 Method Used at Last Sex with 3rd-to-last partner in past 12 mons -4th mention,LSTMTHP12,raw
+EF-2 Method Used at Last Sex with last partner in past 12 mons -1st mention,LSTMTHP1,raw
+EF-2 Method Used at Last Sex with last partner in past 12 mons -2nd mention,LSTMTHP2,raw
+EF-2 Method Used at Last Sex with last partner in past 12 mons -3rd mention,LSTMTHP3,raw
+EF-2 Method Used at Last Sex with last partner in past 12 mons -4th mention,LSTMTHP4,raw
+EF-3 use method at first sex with 2nd-to-lat partner in past 12 months?,USEFSTP2,raw
+EF-3 use method at first sex with 3rd-to-last partner in past 12 months?,USEFSTP3,raw
+EF-3 use method at first sex with last partner in past 12 months?,USEFSTP,raw
+EF-4 Method used at first sex with 2nd-to-last partner in past 12 mons -1st mention,FSTMTHP5,raw
+EF-4 Method used at first sex with 2nd-to-last partner in past 12 mons -2nd mention,FSTMTHP6,raw
+EF-4 Method used at first sex with 2nd-to-last partner in past 12 mons -3rd mention,FSTMTHP7,raw
+EF-4 Method used at first sex with 2nd-to-last partner in past 12 mons -4th mention,FSTMTHP8,raw
+EF-4 Method used at first sex with 3rd-to-last partner in past 12 mons -1st mention,FSTMTHP9,raw
+EF-4 Method used at first sex with 3rd-to-last partner in past 12 mons -2nd mention,FSTMTHP10,raw
+EF-4 Method used at first sex with 3rd-to-last partner in past 12 mons -3rd mention,FSTMTHP11,raw
+EF-4 Method used at first sex with 3rd-to-last partner in past 12 mons -4th mention,FSTMTHP12,raw
+EF-4 Method used at first sex with last partner in past 12 mons -1st mention,FSTMTHP1,raw
+EF-4 Method used at first sex with last partner in past 12 mons -2nd mention,FSTMTHP2,raw
+EF-4 Method used at first sex with last partner in past 12 mons -3rd mention,FSTMTHP3,raw
+EF-4 Method used at first sex with last partner in past 12 mons -4th mention,FSTMTHP4,raw
+EH-1 R not using a method because want to become preg,WYNOTUSE,raw
+EH-2 Rs partner want R to become preg,HPPREGQ,raw
+EH-2a How long been trying to become preg (mons or yrs),DURTRY_N,raw
+EH-2b How long been trying to become preg (choose mons or yrs),DURTRY_P,raw
+EH-2c Reason not using birth control (at risk of unint preg) - 1st mention,WHYNOUSING1,raw
+EH-2c Reason not using birth control (at risk of unint preg) - 2nd mention,WHYNOUSING2,raw
+EH-2c Reason not using birth control (at risk of unint preg) - 3rd mention,WHYNOUSING3,raw
+EH-2c Reason not using birth control (at risk of unint preg) - 4th mention,WHYNOUSING4,raw
+EH-2c Reason not using birth control (at risk of unint preg) - 5th mention,WHYNOUSING5,raw
+EH-2c Reason not using birth control (at risk of unint preg) - 6th mention,WHYNOUSING6,raw
+EH-2c Reason not using birth control (at risk of unint preg) - 7th mention,WHYNOUSING7,raw
+EH-2c Reason not using birth control (at risk of unint preg) - 8th mention,WHYNOUSING8,raw
+EH-2d main reason not using birth control (at risk of unint preg),MAINNOUSE,raw
+EI-1 Reasons for recent pill use-1st mention,YUSEPILL1,raw
+EI-1 Reasons for recent pill use-2nd mention,YUSEPILL2,raw
+EI-1 Reasons for recent pill use-3rd mention,YUSEPILL3,raw
+EI-1 Reasons for recent pill use-4th mention,YUSEPILL4,raw
+EI-1 Reasons for recent pill use-5th mention,YUSEPILL5,raw
+EI-1 Reasons for recent pill use-6th mention,YUSEPILL6,raw
+EI-2 IUD Type in the last two weeks,IUDTYPE,raw
+EI-3 Reasons for recent IUD use-1st mention,YUSEIUD1,raw
+EI-3 Reasons for recent IUD use-2nd mention,YUSEIUD2,raw
+EI-3 Reasons for recent IUD use-3rd mention,YUSEIUD3,raw
+EI-3 Reasons for recent IUD use-4th mention,YUSEIUD4,raw
+EI-3 Reasons for recent IUD use-5th mention,YUSEIUD5,raw
+EJ-1 Source of recent method use,CURBCPLC,raw
+EJ-2 How many packs of pills last time got supplies,NUMPILLS,raw
+EJ-3 How pay for current method-1st mention,CURBCPAY1,raw
+EJ-3 How pay for current method-2nd mention,CURBCPAY2,raw
+EJ-3 How pay for current method-3rd mention,CURBCPAY3,raw
+EJ-4 Have health ins when got curr method?,CURBCINS,raw
+EJ-5 Why not use health ins to pay for curr method?-1st mention,NOUSEINS1,raw
+EJ-5 Why not use health ins to pay for curr method?-2nd mention,NOUSEINS2,raw
+EJ-6 How much paid for cur method,CURBCAMT,raw
+"EJ-7 If cost not an issue, want to use diff method?",NOCOST1,raw
+"EJ-8 If cost not an issue, want to use a method?",NOCOST2,raw
+EK-1 # times sex with male in last 4 weeks,PST4WKSX,raw
+EK-2 Use a condom during sex with male in last 4 wks,PSWKCOND1,raw
+EK-3 How many times use condom during sex last 4 wks,PSWKCOND2,raw
+EK-3e number of pills missed,MISSPILL,raw
+EK-4 How many times used condom during sex last 12 mons,P12MOCON,raw
+EK-5 How many times used any method during sex last 12 mons,PXNOFREQ,raw
+Ever had an HIV test,EVHIVTST,recode
+Ever had male-genital-involving sex with a male partner (computed in FC J-9),OPPSEXGEN,computed
+Ever had oral sex with a male partner (computed in FC J-8b),ANYORAL,computed
+Ever had sexual experience with a female partner (computed in FC J-19),SAMESEXANY,computed
+Ever had vaginal intercourse with male partner (computed in FC J-8b),J_HADSEX,computed
+"Ever had vaginal, oral, or anal sex with a male partner (computed in FC J-9)",OPPSEXANY,computed
+Ever married to an opposite-sex spouse (computed in FC A-17),EVRMARRY,computed
+Ever used any method (computed in FC E-6),EVERUSED,computed
+Ever used any method for any reason,ANYMTHD,recode
+FA-1a Received method of birth control or prescription for BC in last 12 months,BTHCON12,raw
+FA-1b Received checkup for birth control in last 12 months,MEDTST12,raw
+FA-1c Received counseling about birth control in last 12 months,BCCNS12,raw
+FA-1d Received sterilizing operation in last 12 months,STEROP12,raw
+FA-1e Received counseling about getting sterilized in last 12 months,STCNS12,raw
+FA-1f Received emergency contraception or prescription for EC in last 12 months,EMCON12,raw
+FA-1g Received counseling about emergency contraception in last 12 months,ECCNS12,raw
+FA-3a Received pregnancy test in last 12 months,PRGTST12,raw
+FA-3b Received Pap test in last 12 months,PAP12,raw
+FA-3c Received pelvic exam in last 12 months,PELVIC12,raw
+FA-3d Received prenatal care in last 12 months,PRENAT12,raw
+FA-3e Received post-pregnancy care in last 12 months,PARTUM12,raw
+FA-3f Received testing for STD in last 12 months,STDSVC12,raw
+FA-3g Reason did not see a doctor in past 12 months - 1st mention,BARRIER_01,raw
+FA-3g Reason did not see a doctor in past 12 months - 2nd mention,BARRIER_02,raw
+FA-3g Reason did not see a doctor in past 12 months - 3rd mention,BARRIER_03,raw
+FA-3g Reason did not see a doctor in past 12 months - 4th mention,BARRIER_04,raw
+FA-3g Reason did not see a doctor in past 12 months - 5th mention,BARRIER_05,raw
+FA-3g Reason did not see a doctor in past 12 months - 6th mention,BARRIER_06,raw
+FA-3g Reason did not see a doctor in past 12 months - 7th mention,BARRIER_07,raw
+FA-3g Reason did not see a doctor in past 12 months - 8th mention,BARRIER_08,raw
+FA-4 Received Services Last 12 Months at 1 or More Visits,NUMBCVIS,raw
+FA-5 Where R Rec'd all services in one visit,BC12PLCX_01,raw
+FA-5 Where R Rec'd Check-up for Birth Control in Last 12 Months,BC12PLCX_03,raw
+FA-5 Where R Rec'd Counseling about Birth Control in Last 12 Months,BC12PLCX_04,raw
+FA-5 Where R Rec'd Counseling on Emerg. Contraception in Last 12 Months,BC12PLCX_08,raw
+FA-5 Where R Rec'd Counseling on Getting Sterilized in Last 12 Months,BC12PLCX_06,raw
+FA-5 Where R Rec'd Emergency Contraception in Last 12 Months,BC12PLCX_07,raw
+FA-5 Where R Rec'd Method of Birth Control/Prescription in Last 12 Months,BC12PLCX_02,raw
+FA-5 Where R Rec'd Pap test in Last 12 Months,BC12PLCX_10,raw
+FA-5 Where R Rec'd Pelvic Exam in Last 12 Months,BC12PLCX_11,raw
+FA-5 Where R Rec'd Post-pregnancy care in Last 12 Months,BC12PLCX_13,raw
+FA-5 Where R Rec'd Pregnancy Test in Last 12 Months,BC12PLCX_09,raw
+FA-5 Where R Rec'd Prenatal Care in Last 12 Months,BC12PLCX_12,raw
+FA-5 Where R Rec'd sterilizing operation in Last 12 Months,BC12PLCX_05,raw
+FA-5 Where R Rec'd testing for STD in Last 12 Months,BC12PLCX_14,raw
+FA-5a Talked to provider in the past 12 months about specific topics -1st mention,TALKPROV_1,raw
+FA-5a Talked to provider in the past 12 months about specific topics-2nd mention,TALKPROV_2,raw
+FA-5a Talked to provider in the past 12 months about specific topics-3rd mention,TALKPROV_3,raw
+FA-5b Main reason chose place for STD test,WHYPSTD,raw
+FA-5c Main reason no STD test in past 12 months,WHYNOSTD,raw
+FA-5d When info about birth control whether provider talked about LARC,BCCLARC,raw
+FA-6 Way Bill Was Paid-a check-up or medical test related to using a birth control method (1st mention),BC12PAY_03_1,raw
+FA-6 Way Bill Was Paid-a check-up or medical test related to using a birth control method (2nd mention),BC12PAY_03_2,raw
+FA-6 Way Bill Was Paid-a check-up or medical test related to using a birth control method (3rd mention),BC12PAY_03_3,raw
+FA-6 Way Bill Was Paid-a Pap test (1st mention),BC12PAY_10_1,raw
+FA-6 Way Bill Was Paid-a Pap test (2nd mention),BC12PAY_10_2,raw
+FA-6 Way Bill Was Paid-a Pap test (3rd mention),BC12PAY_10_3,raw
+FA-6 Way Bill Was Paid-a sterilizing operation (1st mention),BC12PAY_05_1,raw
+FA-6 Way Bill Was Paid-a sterilizing operation (2nd mention),BC12PAY_05_2,raw
+FA-6 Way Bill Was Paid-a sterilizing operation (3rd mention),BC12PAY_05_3,raw
+FA-6 Way Bill Was Paid-counseling or information about birth control (1st mention),BC12PAY_04_1,raw
+FA-6 Way Bill Was Paid-counseling or information about birth control (2nd mention),BC12PAY_04_2,raw
+FA-6 Way Bill Was Paid-counseling or information about birth control (3rd mention),BC12PAY_04_3,raw
+FA-6 Way Bill Was Paid-counseling or information about emergency contraception (1st mention),BC12PAY_08_1,raw
+FA-6 Way Bill Was Paid-counseling or information about emergency contraception (2nd mention),BC12PAY_08_2,raw
+FA-6 Way Bill Was Paid-counseling or information about emergency contraception (3rd mention),BC12PAY_08_3,raw
+FA-6 Way Bill Was Paid-counseling or information about getting sterilized (1st mention),BC12PAY_06_1,raw
+FA-6 Way Bill Was Paid-counseling or information about getting sterilized (2nd mention),BC12PAY_06_2,raw
+FA-6 Way Bill Was Paid-counseling or information about getting sterilized (3rd mention),BC12PAY_06_3,raw
+FA-6 Way Bill Was Paid-emergency contraception (1st mention),BC12PAY_07_1,raw
+FA-6 Way Bill Was Paid-emergency contraception (2nd mention),BC12PAY_07_2,raw
+FA-6 Way Bill Was Paid-emergency contraception (3rd mention),BC12PAY_07_3,raw
+FA-6 Way Bill Was Paid-Method of birth control or prescription for a method (1st mention),BC12PAY_02_1,raw
+FA-6 Way Bill Was Paid-Method of birth control or prescription for a method (2nd mention),BC12PAY_02_2,raw
+FA-6 Way Bill Was Paid-Method of birth control or prescription for a method (3rd mention),BC12PAY_02_3,raw
+FA-6 Way Bill Was Paid-pelvic exam (1st mention),BC12PAY_11_1,raw
+FA-6 Way Bill Was Paid-pelvic exam (2nd mention),BC12PAY_11_2,raw
+FA-6 Way Bill Was Paid-pelvic exam (3rd mention),BC12PAY_11_3,raw
+FA-6 Way Bill Was Paid-post-pregnancy care (1st mention),BC12PAY_13_1,raw
+FA-6 Way Bill Was Paid-post-pregnancy care (2nd mention),BC12PAY_13_2,raw
+FA-6 Way Bill Was Paid-post-pregnancy care (3rd mention),BC12PAY_13_3,raw
+FA-6 Way Bill Was Paid-pregnancy test (1st mention),BC12PAY_09_1,raw
+FA-6 Way Bill Was Paid-pregnancy test (2nd mention),BC12PAY_09_2,raw
+FA-6 Way Bill Was Paid-pregnancy test (3rd mention),BC12PAY_09_3,raw
+FA-6 Way Bill Was Paid-prenatal care (1st mention),BC12PAY_12_1,raw
+FA-6 Way Bill Was Paid-prenatal care (2nd mention),BC12PAY_12_2,raw
+FA-6 Way Bill Was Paid-prenatal care (3rd mention),BC12PAY_12_3,raw
+FA-6 Way Bill Was Paid-Services all received in one visit (1st mention),BC12PAY_01_1,raw
+FA-6 Way Bill Was Paid-Services all received in one visit (2nd mention),BC12PAY_01_2,raw
+FA-6 Way Bill Was Paid-Services all received in one visit (3rd mention),BC12PAY_01_3,raw
+FA-6 Way Bill Was Paid-test for STD (1st mention),BC12PAY_14_1,raw
+FA-6 Way Bill Was Paid-test for STD (2nd mention),BC12PAY_14_2,raw
+FA-6 Way Bill Was Paid-test for STD (3rd mention),BC12PAY_14_3,raw
+FA-9 Clinic Rs Regular Place for Care (a check-up or medical test related to using a birth control method),REGCAR12_F_03,raw
+FA-9 Clinic Rs Regular Place for Care (a sterilizing operation),REGCAR12_F_05,raw
+FA-9 Clinic Rs Regular Place for Care (counseling or information about birth control),REGCAR12_F_04,raw
+FA-9 Clinic Rs Regular Place for Care (counseling or information about emergency contraception),REGCAR12_F_08,raw
+FA-9 Clinic Rs Regular Place for Care (counseling or information about getting sterilized),REGCAR12_F_06,raw
+FA-9 Clinic Rs Regular Place for Care (emergency contraception),REGCAR12_F_07,raw
+FA-9 Clinic Rs Regular Place for Care (method of birth control or prescription for a method),REGCAR12_F_02,raw
+FA-9 Clinic Rs Regular Place for Care (Pap test),REGCAR12_F_10,raw
+FA-9 Clinic Rs Regular Place for Care (Pelvic exam),REGCAR12_F_11,raw
+FA-9 Clinic Rs Regular Place for Care (post-pregnancy care),REGCAR12_F_13,raw
+FA-9 Clinic Rs Regular Place for Care (pregnancy test),REGCAR12_F_09,raw
+FA-9 Clinic Rs Regular Place for Care (Prenatal care),REGCAR12_F_12,raw
+FA-9 Clinic Rs Regular Place for Care (services received all in one visit),REGCAR12_F_01,raw
+FA-9 Clinic Rs Regular Place for Care (test for STD),REGCAR12_F_14,raw
+Family income as percentage of federal poverty threshold (top- and bottom-coded),POVERTY,recode
+FB-1 Has R ever Visited Clinic for Medical/BC Service,EVERFPC,raw
+FC-2 Timing of R's last Pap test,LASTPAP,raw
+FC-3 Main reason for Rs last Pap test,MREASPAP,raw
+FC-4 Age at 1st Pap test (top- and bottom-coded),AGEFPAP,raw
+FC-4a Follow up age at 1st Pap test,AGEFPAP2,raw
+FC-5 Has R had abnormal Pap test last 5 years,ABNPAP5,raw
+FD-1 Was pelvic exam at same time as Pap test,PELWPAP,raw
+FD-2 Timing of R's last pelvic exam,LASTPEL,raw
+FD-3 Main reason for Rs last pelvic exam,MREASPEL,raw
+FD-4 Age at 1st pelvic exam (top- and bottom-coded),AGEFPEL,raw
+FD-4a Follow up age at 1st pelvic exam,AGEPEL2,raw
+FE-2 R ever had HPV test,EVHPVTST,raw
+FE-3 Was HPV test at same time as Pap test,HPVWPAP,raw
+FE-4 Timing of R's last HPV test,LASTHPV,raw
+FE-5 Main reason for Rs last HPV test,MREASHPV,raw
+FE-6 Age of 1st HPV test (top- and bottom-coded),AGEFHPV,raw
+FE-6a Follow up age at 1st HPV test,AGEFHPV2,raw
+FE-7 preference of self-test for HPV test,SELFTEST,raw
+FE-8 Self-test for HPV test prefer at home or doctor's office,SELFTEST2,raw
+FECUND_I imputation flag,FECUND_I,imputation flag
+Fecundity status,FECUND,recode
+FF-2 Provider asked R whether smoke cigarettes or other tobacco,ASKSMOKE,raw
+FF-3 Provider asked R whether wanted to get pregnant,ASKPREG,raw
+FF-4 Provider advised R to take vitamin with folic acid,ASKFOLIC,raw
+FF-5 At visits last 12 months doctor talked using condom & female method,TALKDM,raw
+FG-1 In past 12 months rate provider on respecting you as a person,PROVRESP,raw
+FG-2 In past 12 months rate provider on letting you say what mattered re birth control,PROVSAYBC,raw
+FG-3 In past 12 months rate provider on taking preference seriously re birth control,PROVPREBC,raw
+FG-4 In past 12 months rate provider on giving enough info to make best decision re birth control,PROVINFOBC,raw
+Final weight for the 2022-2023 NSFG,WGT2022_2023,weight-related
+First named method used in month prior to interview from method history calendar (computed in FC E-54),LSTMONMETH1,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - April [interview yr] (FC E-44)",SAYX40,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - April [interview yr-1] (FC
+E-44)",SAYX28,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - April [interview yr-2] (FC
+E-44)",SAYX16,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - April [interview yr-3] (FC
+E-44)",SAYX4,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Aug [interview yr] (FC E-44)",SAYX44,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Aug [interview yr-1] (FC E -44)",SAYX32,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Aug [interview yr-2] (FC E -44)",SAYX20,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Aug [interview yr-3] (FC E -44)",SAYX8,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Dec [interview yr] (FC E-44)",SAYX48,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Dec [interview yr-1] (FC E-44)",SAYX36,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Dec [interview yr-2] (FC E-44)",SAYX24,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Dec [interview yr-3] (FC E-44)",SAYX12,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Feb [interview yr] (FC E-44)",SAYX38,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Feb [interview yr-1] (FC E-44)",SAYX26,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Feb [interview yr-2] (FC E-44)",SAYX14,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Feb [interview yr-3] (FC E-44)",SAYX2,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Jan [interview yr] (FC E-44)",SAYX37,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Jan [interview yr-1] (FC E-44)",SAYX25,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Jan [interview yr-2] (FC E-44)",SAYX13,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Jan [interview yr-3] (FC E-44)",SAYX1,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - July [interview yr] (FC E-44)",SAYX43,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - July [interview yr-1] (FC E-44)",SAYX31,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - July [interview yr-2] (FC E-44)",SAYX19,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - July [interview yr-3] (FC E-44)",SAYX7,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - June [interview yr] (FC E-44)",SAYX42,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - June [interview yr-1] (FC
+E-44)",SAYX30,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - June [interview yr-2] (FC
+E-44)",SAYX18,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - June [interview yr-3] (FC
+E-44)",SAYX6,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Mar [interview yr] (FC E-44)",SAYX39,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Mar [interview yr-1] (FC
+E-44)",SAYX27,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Mar [interview yr-2] (FC
+E-44)",SAYX15,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Mar [interview yr-3] (FC
+E-44)",SAYX3,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - May [interview yr] (FC E-44)",SAYX41,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - May [interview yr-1] (FC
+E-44)",SAYX29,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - May [interview yr-2] (FC
+E-44)",SAYX17,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - May [interview yr-3] (FC
+E-44)",SAYX5,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Nov [interview yr] (FC E-44)",SAYX47,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Nov [interview yr-1] (FC
+E-44)",SAYX35,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Nov [interview yr-2] (FC
+E-44)",SAYX23,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Nov [interview yr-3] (FC
+E-44)",SAYX11,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Oct [interview yr] (FC E-44)",SAYX46,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Oct [interview yr-1] (FC E-44)",SAYX34,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Oct [interview yr-2] (FC E-44)",SAYX22,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Oct [interview yr-3] (FC E-44)",SAYX10,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Sept [interview yr] (FC E-44)",SAYX45,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Sept [interview yr-1] (FC
+E-44)",SAYX33,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Sept [interview yr-2] (FC
+E-44)",SAYX21,computed
+"Flag indicating whether "" Same all year"" was original answer to ED-6 METHHIST - Sept [interview yr-3] (FC
+E-44)",SAYX9,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - April [interview yr]
+(FC E-44)",SALMX40,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - April [interview yr-1] (FC E-44)",SALMX28,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - April [interview yr-2] (FC E-44)",SALMX16,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - April [interview yr-3] (FC E-44)",SALMX4,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Aug [interview yr]
+(FC E-44)",SALMX44,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Aug [interview yr-1] (FC E-44)",SALMX32,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Aug [interview yr-2] (FC E-44)",SALMX20,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Aug [interview yr-3] (FC E-44)",SALMX8,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Dec [interview yr]
+(FC E-44)",SALMX48,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Dec [interview yr-1] (FC E-44)",SALMX36,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Dec [interview yr-2] (FC E-44)",SALMX24,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Dec [interview yr-3] (FC E-44)",SALMX12,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Feb [interview yr]
+(FC E-44)",SALMX38,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Feb [interview yr-1] (FC E-44)",SALMX26,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Feb [interview yr-2] (FC E-44)",SALMX14,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Feb [interview yr-3] (FC E-44)",SALMX2,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Jan [interview yr]
+(FC E-44)",SALMX37,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Jan [interview yr-1] (FC E-44)",SALMX25,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Jan [interview yr-2] (FC E-44)",SALMX13,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Jan [interview yr-3] (FC E-44)",SALMX1,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - July [interview yr]
+(FC E-44)",SALMX43,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - July [interview yr-1] (FC E-44)",SALMX31,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - July [interview yr-2] (FC E-44)",SALMX19,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - July [interview yr-3] (FC E-44)",SALMX7,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - June [interview yr]
+(FC E-44)",SALMX42,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - June [interview yr-1] (FC E-44)",SALMX30,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - June [interview yr-2] (FC E-44)",SALMX18,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - June [interview yr-3] (FC E-44)",SALMX6,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Mar [interview yr]
+(FC E-44)",SALMX39,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Mar [interview yr-1] (FC E-44)",SALMX27,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Mar [interview yr-2] (FC E-44)",SALMX15,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - May [interview yr]
+(FC E-44)",SALMX41,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - May [interview yr-1] (FC E-44)",SALMX29,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - May [interview yr-2] (FC E-44)",SALMX17,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - May [interview yr-3] (FC E-44)",SALMX5,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Nov [interview yr]
+(FC E-44)",SALMX47,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Nov [interview yr-1] (FC E-44)",SALMX35,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Nov [interview yr-2] (FC E-44)",SALMX23,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Nov [interview yr-3] (FC E-44)",SALMX11,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Oct [interview yr]
+(FC E-44)",SALMX46,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Oct [interview yr-1] (FC E-44)",SALMX34,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Oct [interview yr-2] (FC E-44)",SALMX22,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Oct [interview yr-3] (FC E-44)",SALMX10,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Sept [interview yr]
+(FC E-44)",SALMX45,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Sept [interview yr-1] (FC E-44)",SALMX33,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Sept [interview yr-2] (FC E-44)",SALMX21,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST - Sept [interview yr-3] (FC E-44)",SALMX9,computed
+"Flag indicating whether "" Same as last month"" was original answer to ED-6 METHHIST -Mar [interview yr-3] (FC E-44)",SALMX3,computed
+FMAR1AGE imputation flag,FMAR1AGE_I,imputation flag
+Formal (legal) marital status relative to opposite-sex spouses,FMARITAL,recode
+Formal marital status at time of interview relative to opposite-sex spouses (computed in FC A-37),FMARIT,computed
+Fourth named method used in month prior to interview from method history calendar (computed in FC E-54),LSTMONMETH4,computed
+FPDUR imputation flag,FPDUR_I,imputation flag
+FPTITBC imputation flag,FPTITBC_I,imputation flag
+FPTITCBC imputation flag,FPTITCBC_I,imputation flag
+FPTITCEC imputation flag,FPTITCEC_I,imputation flag
+FPTITCHK imputation flag,FPTITCHK_I,imputation flag
+FPTITCST imputation flag,FPTITCST_I,imputation flag
+FPTITEC imputation flag,FPTITEC_I,imputation flag
+FPTITHIV imputation flag,FPTITHIV_I,imputation flag
+FPTITPAP imputation flag,FPTITPAP_I,imputation flag
+FPTITPEL imputation flag,FPTITPEL_I,imputation flag
+FPTITPPR imputation flag,FPTITPPR_I,imputation flag
+FPTITPRE imputation flag,FPTITPRE_I,imputation flag
+FPTITPRN imputation flag,FPTITPRN_I,imputation flag
+FPTITSTD imputation flag,FPTITSTD_I,imputation flag
+FPTITSTE imputation flag,FPTITSTE_I,imputation flag
+GA-1 R Wants a(another) baby at some time,RWANT,raw
+GA-1a R prob wants/does not want a(another) baby at some time,PROBWANT,raw
+GA-2 R's H/P wants a(another) baby at some time,PWANT,raw
+GB-1 R & H/P intend to have a(another) baby at some time,JINTEND,raw
+GB-2 How sure R & H/P will/will not have a(nother) baby,JSUREINT,raw
+GB-3 How many (more) babies R and H/P intend,JINTENDN,raw
+GB-4 Largest number of (additional) babies R and H/P intend,JEXPECTL,raw
+GB-5 Smallest number of (additional) babies R and H/P intend,JEXPECTS,raw
+GB-6 When R and H/P expect 1st/next child to be born,JINTNEXT,raw
+GC-1 R intends to have a(another) baby at some time,INTEND,raw
+GC-2 R How sure R will/ will not have a(another) baby,SUREINT,raw
+GC-3 Number of (more) babies R intends,INTENDN,raw
+GC-4 Largest number of (additional) babies R intends,EXPECTL,raw
+GC-5 Smallest number of (additional) babies R intends,EXPECTS,raw
+GC-6 When R expects her 1st/next child to be born,INTNEXT,raw
+HA-1 Ever Received Medical Help to Get Pregnant,HLPPRG,raw
+HA-10 Most recent visit for medical help to become pregnant was within past 12 months,LASTHELP,raw
+HA-2 Sought medical help to get pregnant in current union,SEEKCURR,raw
+HA-3 Infertility Services Received - 1st mention,TYPALLPG_1,raw
+HA-3 Infertility Services Received - 2nd mention,TYPALLPG_2,raw
+HA-3 Infertility Services Received - 3rd mention,TYPALLPG_3,raw
+HA-3 Infertility Services Received - 4th mention,TYPALLPG_4,raw
+HA-3 Infertility Services Received - 5th mention,TYPALLPG_5,raw
+HA-3 Infertility Services Received - 6th mention,TYPALLPG_6,raw
+HA-3 Infertility Services Received - 7th mention,TYPALLPG_7,raw
+HA-3 Infertility Services Received - 8th mention,TYPALLPG_8,raw
+HA-3 Infertility Services Received - 9th mention,TYPALLPG_9,raw
+HA-4 Ovulation-inducing drugs used within past year,OVUL12M,raw
+HA-5b2 Artificial insemination within past year,INSEM12M,raw
+HA-6 Any Costs of Infertility Services Covered by Insurance,INSCOVPG,raw
+HA-7 Age first went for medical help to get pregnant,FRSTHELP,raw
+HA-8 How long tried to get pregnant before first went for medical help,TRYLONG2,raw
+HA-8 Unit (months/years) for how long tried to get pregnant before first went for medical help,UNIT_TRYLONG2,raw
+HA-9 R Currently Pursuing Medical Help to Get Pregnant,HLPPGNOW,raw
+HB-1 Ever Received Medical Help To Prevent Miscarriage,HLPMC,raw
+HB-2 Miscarriage services received - 1st mention,TYPALLMC_1,raw
+HB-2 Miscarriage services received - 2nd mention,TYPALLMC_2,raw
+HB-2 Miscarriage services received - 3rd mention,TYPALLMC_3,raw
+HB-2 Miscarriage services received - 4th mention,TYPALLMC_4,raw
+HB-2 Miscarriage services received - 5th mention,TYPALLMC_5,raw
+HB-3 Number of Miscarriages Before First Visit for Miscarriage Services (top-coded),MISCNUM,raw
+HB-4 Ever Told You Had Any Infertility Problems - 1st mention,INFRTPRB_1,raw
+HB-4 Ever Told You Had Any Infertility Problems - 2nd mention,INFRTPRB_2,raw
+HB-4 Ever Told You Had Any Infertility Problems - 3rd mention,INFRTPRB_3,raw
+HB-4 Ever Told You Had Any Infertility Problems - 4th mention,INFRTPRB_4,raw
+HB-4 Ever Told You Had Any Infertility Problems - 5th mention,INFRTPRB_5,raw
+HC_17 Age first prescribed contraception for menstrual cramps,MENSBCAGE,raw
+HC_18 How well did contraception help with menstrual cramps,MENSBCHELP,raw
+HC_19 How often R has pelvic pain or cramps between periods,MENSPELPAIN,raw
+HC_20 Age R first had pelvic pain or cramps between periods,AGEPELPAIN,raw
+HC-1 How often R douched in last 12 months,DUCHFREQ,raw
+HC-10 Ovulation/Menstrual Problems: Ever Diagnosed,OVUPROB,raw
+HC-11 R ever told she has polycystic ovarian syndrome,PCOS,raw
+HC-11a Basis of R's PCOS diagnosis - 1st mention,PCOSSYMP_1,raw
+HC-11a Basis of R's PCOS diagnosis - 2nd mention,PCOSSYMP_2,raw
+HC-11a Basis of R's PCOS diagnosis - 3rd mention,PCOSSYMP_3,raw
+HC-11a Basis of R's PCOS diagnosis - 4th mention,PCOSSYMP_4,raw
+HC-11a Basis of R's PCOS diagnosis - 5th mention,PCOSSYMP_5,raw
+HC-11a Basis of R's PCOS diagnosis - 6th mention,PCOSSYMP_6,raw
+HC-11a Basis of R's PCOS diagnosis - 7th mention,PCOSSYMP_7,raw
+HC-13 How soon after menarche did R's periods became regular,MENSREG,raw
+HC-14 Symptoms experienced during 1-2 years after menarche - 1st mentioned,MENSEXP_1,raw
+HC-14 Symptoms experienced during 1-2 years after menarche - 2nd mentioned,MENSEXP_2,raw
+HC-14 Symptoms experienced during 1-2 years after menarche - 3rd mentioned,MENSEXP_3,raw
+HC-15 Frequency of severe cramps during period (before age 18),MENSPAIN,raw
+HC-16 Prescribed a method of contraception for menstrual cramps,MENSBCM,raw
+HC-2 Has R Ever Been Treated For PID,PID,raw
+HC-3 Was R Having Any Symptoms that Prompted PID Treatment,PIDSYMPT,raw
+HC-4 Number of Times R was Treated For PID (top-coded),PIDTX,raw
+HC-5 How long ago was last treatment For PID,WHENPID,raw
+HC-6 Diabetes: Ever Diagnosed,DIABETES,raw
+"HC-7 Had diabetes during pregnancy, outside pregnancy, or both",GESTDIAB,raw
+HC-7a Age when R was first told she had cancer (bottom-coded),AGECANCER,raw
+HC-8 Uterine Fibroids: Ever Diagnosed,UF,raw
+HC-8a Fibroids diagnosis confirmed by ultrasound,UFSONO,raw
+HC-8b R currently has fibroids,UFCURR,raw
+HC-8c How long ago was R diagnosed with fibroids,UFDIAGNOS,raw
+HC-8d Limitations due to fibroids,UFLIMIT,raw
+HC-9 Endometriosis: Ever Diagnosed,ENDO,raw
+HC-9a R currently has endometriosis,ENDOCURR,raw
+HC-9b How long ago was R diagnosed with endometriosis,ENDODIAG,raw
+HC-9c Limitations due to endometriosis,ENDOLIM,raw
+HC-9d Treatment received for endometriosis - 1st mention,ENDOTREAT_1,raw
+HC-9d Treatment received for endometriosis - 2nd mention,ENDOTREAT_2,raw
+HC-9d Treatment received for endometriosis - 3rd mention,ENDOTREAT_3,raw
+HC-9d Treatment received for endometriosis - 4th mention,ENDOTREAT_4,raw
+HC-9d Treatment received for endometriosis - 5th mention,ENDOTREAT_5,raw
+HC-9d Treatment received for endometriosis - 6th mention,ENDOTREAT_6,raw
+HC-9d Treatment received for endometriosis - 7th mention,ENDOTREAT_7,raw
+HC-9d Treatment received for endometriosis - 8th mention,ENDOTREAT_8,raw
+HD-1 Level of difficulty R has with seeing,VISION,raw
+HD-10 R's assessment of breast cancer risk if mother diagnosed with breast cancer at age 70,MOMRISK70,raw
+HD-11 R's assessment of breast cancer risk if mother diagnosed with breast cancer at age 40,MOMRISK40,raw
+HD-12 R's assessment of breast cancer risk due to alcohol consumption,ALCORISK,raw
+HD-13 R ever told has increased breast cancer risk,BCANCRISK,raw
+HD-18b Age when R first had a mammogram (bottom-coded),AGEMAMMR,raw
+HD-2 Level of difficulty R has with hearing,HEARING,raw
+HD-3 Level of difficulty R has with walking or climbing steps,MOBILITY,raw
+HD-4 Level of difficulty R has with remembering or concentrating,COGNITION,raw
+HD-5 Level of difficulty R has with self-care,SELFCARE,raw
+HD-6 Level of difficulty R has with communicating,COMMUNIC,raw
+HD-7 R has ever had cancer,EVRCANCER,raw
+HD-7c Type of cervical cancer diagnosis R had,PRECANCER,raw
+HD-8 R has ever had a mammogram,MAMMOG,raw
+HD-8a Number of mammograms R has had (top-coded),MAMMOGN,raw
+HD-8c Main reason for R's first mammogram,REASMAMMR,raw
+HD-8e Treatment received for fibroids - 1st mention,UFTREAT_1,raw
+HD-8e Treatment received for fibroids - 2nd mention,UFTREAT_2,raw
+HD-8e Treatment received for fibroids - 3rd mention,UFTREAT_3,raw
+HD-8e Treatment received for fibroids - 4th mention,UFTREAT_4,raw
+HD-8e Treatment received for fibroids - 5th mention,UFTREAT_5,raw
+HD-8e Treatment received for fibroids - 6th mention,UFTREAT_6,raw
+HD-9 R has family history of breast or ovarian cancer,FAMHYST,raw
+HD-9a Type of family history of breast/ovarian cancer - 1st mention,FAMHYSTA_1,raw
+HD-9a Type of family history of breast/ovarian cancer - 2nd mention,FAMHYSTA_2,raw
+HD-9a Type of family history of breast/ovarian cancer - 3rd mention,FAMHYSTA_3,raw
+HD-9a Type of family history of breast/ovarian cancer - 4th mention,FAMHYSTA_4,raw
+HD-9a Type of family history of breast/ovarian cancer - 5th mention,FAMHYSTA_5,raw
+HE_1b Has R donated blood or blood products in past year,DONBLDYR,raw
+HE-1 Has R Ever Donated Blood or Blood Products,DONBLOOD,raw
+HE-10 Has R taken PrEP medications in the past 12 months,PREP12,raw
+HE-11 Has a doctor ever talked with R about HIV/AIDS,TALKDOCT,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 10th mention,AIDSTALK_10,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 11th mention,AIDSTALK_11,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 12th mention,AIDSTALK_12,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 1st mention,AIDSTALK_01,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 2nd mention,AIDSTALK_02,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 3rd mention,AIDSTALK_03,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 4th mention,AIDSTALK_04,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 5th mention,AIDSTALK_05,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 6th mention,AIDSTALK_06,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 7th mention,AIDSTALK_07,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 8th mention,AIDSTALK_08,raw
+HE-12 HIV Topics Covered in Discussion with Doctor/Provider - 9th mention,AIDSTALK_09,raw
+HE-13 R Tested for HIV During Last Completed Pregnancy,PREGHIV,raw
+HE-2 Any HIV Test Outside of Blood Donation,HIVTEST,raw
+HE-3 How long ago was last HIV test,WHNHIVTST,raw
+HE-4 Place Where R Had Last HIV Test,PLCHIV,raw
+HE-6 Used a rapid home HIV test in past year,RHHIVT1,raw
+HE-7 Reasons for rapid home HIV test - 1st mention,RHHIVT2_1,raw
+HE-7 Reasons for rapid home HIV test - 2nd mention,RHHIVT2_2,raw
+HE-7 Reasons for rapid home HIV test - 3rd mention,RHHIVT2_3,raw
+HE-8 Main Reason For This (Last) HIV Test,HIVTST,raw
+HE-9 Has R heard about PrEP medications,PREPHIV,raw
+HF-1 R ever received HPV vaccine,EVERVACC,raw
+HF-2 Age when R received first HPV vaccine shot (top- and bottom-coded),HPVSHOT1,raw
+HG-1 R had blood pressure checked in past year,BLDPRESS,raw
+HG-2 R told she had high blood pressure in the past year,HIGHBP,raw
+HG-3 R currently taking medicine for high blood pressure,BPMEDS,raw
+HG-4 R monitors blood pressure at home,BPMON,raw
+HG-5 How often R monitors blood pressure at home,BPMONFRQ,raw
+HIEDUC imputation flag,HIEDUC_I,imputation flag
+Highest completed year of school or highest degree received (bottom-coded),HIEDUC,recode
+HISPANIC imputation flag,HISPANIC_I,imputation flag
+Hispanic origin,HISPANIC,recode
+HISPRACE2 imputation flag,HISPRACE2_I,imputation flag
+How recent was R's last pregnancy,LASTPREG,computed in post-processing
+How the marriage to 1st husband ended,MAREND01,recode
+How the marriage to 2nd husband ended,MAREND02,recode
+IA-1 Is there a place R usually goes when sick,USUALCAR,raw
+IA-2 Place R usually goes when sick,USLPLACE,raw
+IA-3 R has gone to her usual source of health care in last 12 months,USL12MOS,raw
+IA-4 Currently covered by health insurance,CURRCOV,raw
+IA-5 Type of health care coverage-1st mention,COVERHOW_01,raw
+IA-5 Type of health care coverage-2nd mention,COVERHOW_02,raw
+IA-5 Type of health care coverage-3rd mention,COVERHOW_03,raw
+IA-5 Type of health care coverage-4th mention,COVERHOW_04,raw
+IA-6 Covered by parents' private health insurance plan,PARINSUR,raw
+IA-7 Did R lack health coverage any time in last 12 mos,COVER12,raw
+IA-8 How many of the last 12 mos was R without coverage,NUMNOCOV,raw
+"IB-1 Was R living at current address on April 1, 2020",SAMEADD,raw
+IB-4 Whether R was born outside of US,BRNOUT,raw
+IC-3 How often R attended religious services at age 14,ATTND14,raw
+"IC-6 Fundamental affiliation, if any - 1st mention",FUNDAM_1,raw
+"IC-6 Fundamental affiliation, if any - 2nd mention",FUNDAM_2,raw
+"IC-6 Fundamental affiliation, if any - 3rd mention",FUNDAM_3,raw
+"IC-6 Fundamental affiliation, if any - 4th mention",FUNDAM_4,raw
+IC-7 How important is religion in R's daily life,RELDLIFE,raw
+IC-8 How often R attends religious services,ATTNDNOW,raw
+"ID-1 Ever on active duty in Armed Forces, Reserves, or National Guard?",MILSVC,raw
+ID-2 Ever worked in past 12 mos,WRK12MOS,raw
+"ID-3 Last 12 mos worked full-time, part-time, or both?",FPT12MOS,raw
+ID-4 What was R doing last week (employment status) - 1st mention,DOLASTWK1,raw
+ID-4 What was R doing last week (employment status) - 2nd mention,DOLASTWK2,raw
+ID-4 What was R doing last week (employment status) - 3rd mention,DOLASTWK3,raw
+ID-4 What was R doing last week (employment status) - 4th mention,DOLASTWK4,raw
+ID-5 Worked full- or part-time at all jobs last week (or last week worked),RFTPTX,raw
+IE-1 What was spouse/partner doing last week (employment status) - 1st mention,SPLSTWK1,raw
+IE-1 What was spouse/partner doing last week (employment status) - 2nd mention,SPLSTWK2,raw
+IE-1 What was spouse/partner doing last week (employment status) - 3rd mention,SPLSTWK3,raw
+IE-1 What was spouse/partner doing last week (employment status) - 4th mention,SPLSTWK4,raw
+IE-2 Spouse/partner worked full- or part-time at all jobs last week (or last week worked),SPFTPTX,raw
+IF-1 How R would feel if she got pregnant now,REACTSLF,raw
+IF-2 How bothered would R be if she did not have any (additional) children,CHBOTHER,raw
+IF-3 Language to be used in CASI,CASILANG,raw
+INFERT_I imputation flag,INFERT_I,imputation flag
+Infertility status,INFERT,recode
+Informal marital or cohabiting status relative to opposite-sex partners (computed in FC A-17),RMARIT,computed
+Informal marital status relative to opposite-sex spouses,RMARITAL,recode
+Intact status of childhood family,INTCTFAM,recode
+INTCTFAM imputation flag,INTCTFAM_I,imputation flag
+Intentions for additional births,INTENT,recode
+Intercourse in the past 3 months (including interview month),SEXP3MO,recode
+Intermediate variable used for recode INFERT: Any contraceptive use in last 12 month,ANYBC12,Intermediate
+Interview mode for this case,FTFMODE,computed
+Is man in HH R's husband or male cohabiting partner (computed in FC A-18),MANREL,computed
+J-4 Was condom used at last vaginal intercourse with male partner,CONDVAG,raw
+JA-1 R's General Health,GENHEALT,raw
+JA-3a Was R weighed in past year by a medical care provider,DRWEIGH,raw
+"JA-3b Did medical provider tell R she was underweight, normal weight, overweight, or obese?",TELLWGHT,raw
+JA-3c Was R provided with diet or exercise counseling by medical care provider,WGHTSCRN,raw
+JA-4 How well does R speak English,ENGSPEAK,raw
+"JB-1 R had to stay overnight in a shelter, car or someplace outdoors in last 12 months",NOBEDYR,raw
+JB-2 R had to stay overnight with a friend or relative in last 12 months,STAYREL,raw
+JB-3 R ever been suspended/expelled from school,EVSUSPEN,raw
+JB-4 Grade R was suspended/expelled from school,GRADSUSP,raw
+JC-1 Has R Smoked at Least 100 Cigarettes in Life,SMK100,raw
+JC-2 Age That R First Began Smoking Regularly (bottom-coded),AGESMK,raw
+JC-3 Last 30 days: How Often R Smoked Cigarettes,SMOKE30,raw
+JC-4 Last 12 mos: how often drank alcoholic beverages,DRINK12,raw
+JC-5 Last 12 mos: how often binge drank (5+ in couple of hours),BINGE12,raw
+JC-6 Last 12 mos: how often smoked marijuana,POT12,raw
+JD-1 Ever had vaginal intercourse with male partner,VAGSEX,raw
+JD-10 Used condom at last anal sex with a male partner,CONDANAL,raw
+JD-11 Was condom used at last sex of any kind with a male partner,CONDSEXL,raw
+JD-2 R's age at first vaginal intercourse with male partner (bottom-coded),AGEVAGR,raw
+JD-5 Reason for condom use at last vaginal intercourse with male partner,WHYCONDL,raw
+JD-6 Ever received oral sex from a male partner,GETORALM,raw
+JD-7 R ever gave oral sex to a male partner,GIVORALM,raw
+JD-8 Used condom at last oral sex with a male partner,CONDFELL,raw
+"JD-8b First oral sex before, after, or during first vaginal sex?",TIMING,raw
+JD-9 R ever had anal sex with a male partner,ANALSEX,raw
+JF-2d R had sex with multiple male partners around the same time in the past 12 months,RNONMONOG,raw
+JF-2YRA Number of male vaginal sex partners in last 12 months (top-coded),VAGNUM12,raw
+JF-2YRB Number of male oral sex partners in last 12 months (top-coded),ORALNUM12,raw
+JF-2YRC Number of male anal sex partners in last 12 months (top-coded),ANALNUM12,raw
+JF-3 Last 12 mos: R had Sex With Male Who Ever Had Sex With Males,BISEXPRT,raw
+JF-4 Last 12 mos: R Had Sex With Male Who Was Having Sex With Others,NONMONOG,raw
+"JF-5 # of male partners from past 12 mos who were having sex with other people around the same time
+(top-coded)",NNONMONOG,raw
+JF-6 Last 12 mos: R had sex with male intravenous drug user,MALSHT12,raw
+JF-7 Last 12 mos: R took money or drugs from male for sex,PROSTFRQ,raw
+JF-8 Last 12 mos: R gave money or drugs to male for sex,JOHNFREQ,raw
+JG_1c R had any other sexual experience with another female,FEMSEX,raw
+JG-1A Has R ever performed oral sex on another female,GIVORALF,raw
+JG-1B Has another female ever performed oral sex on R,GETORALF,raw
+JG-4 R's age at first sexual experience with same-sex (female) partner (categorical),SAMESEX1,raw
+JG-5 R's relationship with 1st female partner at time of 1st sex with her,FSAMEREL,raw
+JG-6 Current legal marital status with regard to women - R not married to a woman,FEMLEGSTAT,raw
+JG-7 Number of times R has been married to a woman,FEMMARRN,raw
+JG-8 Number of times R has cohabited with a woman without being married,FEMCOHN,raw
+JH-1 Was R's last sex partner male or female,MFLASTP,raw
+JH-10 R ever (in life) told she had syphilis,SYPHILIS,raw
+JH-13 How often parent or adult insulted R or put her down (before age 18),EMOTABUSE,raw
+"JH-14 How often parent or adult hit, beat or physically hurt R (before age 18)",PHYSABUSE,raw
+JH-15 How often someone made R do sexual things she did not want to (before age 18),SEXABUSE,raw
+JH-16 How often someone tried to make sure R's needs were met (before age 18),REVPHYSNEG,raw
+JH-17 How often someone tried to make sure R felt love (before age 18),REVEMOTNEG,raw
+JH-18 How often R witnessed adults beat each other up (before age 18),WITNESSIPV,raw
+JH-19 Lived with parent/guardian who was having alcohol or drug problems (before age 18),LIVDRUGS,raw
+JH-1a Had sex wth someone they first met on the internet in past 12 months,DATEAPP,raw
+JH-2 R's level of sexual attraction to male and/or female partners,ATTRACT,raw
+"JH-20 Lived with parent/guardian who was depressed, mentally ill, or suicidal (before age 18)",LIVDEPRESS,raw
+JH-21 Been separated from parent or guardian due to their jail time (before age 18),SEPJAIL,raw
+JH-22 How often R treated badly or unfairly because of race (before age 18),RACEDESCRIM,raw
+JH-23 How often treated badly or unfairly because of gender identity or sexual orientation (before age 18),GENDDESCRIM,raw
+"JH-24 How often saw someone get physically attacked, beaten in neighborhood (before age 18)",WITVIOL,raw
+JH-3 R's sexual orientation,ORIENT,raw
+JH-3A Would R ever not go for sexual or reproductive health care because parents might find out,CONFCONC,raw
+JH-3b Dr spent any time alone with R without a parent,TIMALON,raw
+JH-3C Last 12 mos: Doctor asked R about sexual orientation or sex of partners,RISKCHEK1,raw
+JH-3D Last 12 mos: Doctor asked R about her number of sexual partners,RISKCHEK2,raw
+JH-3E Last 12 mos: Doctor asked R about her use of condoms,RISKCHEK3,raw
+JH-3F Last 12 mos: Doctor asked R about the types of sex she has,RISKCHEK4,raw
+JH-4 Last 12 mos: R Tested for chlamydia,CHLAMTST,raw
+JH-4B Last 12 mos: STD testing (other than chlamydia),STDOTHR12,raw
+JH-5 Last 12 mos: R Treated for any STD,STDTRT12,raw
+JH-6 Last 12 mos: R told she had gonorrhea,GON,raw
+JH-7 Last 12 mos: R told she had chlamydia,CHLAM,raw
+JH-8 R ever (in life) told she had genital herpes,HERPES,raw
+JH-9 R ever (in life) told she had genital warts,GENWARTS,raw
+JH-9A R had positive HPV test in past 5 years,ABNHPV,raw
+"JI-0A Total earnings before taxes reported weekly, monthly, or yearly",EARNTYPE,raw
+JI-0B total (weekly/monthly/yearly) earnings before taxes,EARN,raw
+"JI-0c If DK/RF total earnings, was it $20,000 or more?",EARNDK1,raw
+"JI-0d If more than $20,000, was it $50,000 or more (DK/RF total earnings)",EARNDK2,raw
+"JI-0e If more than $50,000, was it $75,000 or more (DK/RF total earnings)",EARNDK3,raw
+"JI-0f If more than $75,000, was it $100,000 or more (DK/RF total earnings)",EARNDK4,raw
+"JI-10 In last 12 months, R or a family member received free or reduced-cost food because couldn't afford
+to buy food",FREEFOOD,raw
+"JI-11 In last 12 months, R or a family member was hungry because could not afford more food",HUNGRY,raw
+"JI-12 In last 12 months, R or a family member didn't see doctor because of cost",MED_COST,raw
+JI-13 Had at least one COVID vaccine dose,COVIDVAX,raw
+JI-14m Month of first COVID vaccine,COVVAX_M,raw
+JI-14y Year of first COVID vaccine,COVVAX_Y,raw
+JI-15 Diagnosed or tested positive for COVID,HADCOVID,raw
+"JI-2 Prefer to Report Total Income per Week, Month, or Year",TOINCWMY,raw
+JI-3 Total combined family Income in prior calendar year (per week/month/year),TOTINC,raw
+"JI-3A If DK/RF combined family income, was it less than $50,000 or $50,000 or more?",FMINCDK1,raw
+"JI-3B If income less than $50,000, was it less than $35,000?",FMINCDK2,raw
+"JI-3C If income less than $35,000, was it less than the poverty threshold?",FMINCDK3,raw
+"JI-3D If income more than $50,000, was it $75,000 or more?",FMINCDK4,raw
+"JI-3E If income more than $75,000, was it $100,000 or more?",FMINCDK5,raw
+"JI-4 R or family member received cash assistance from state/county welfare program in prior calendar
+year",PUBASST,raw
+JI-5 R or family member received food stamps in prior calendar year,FOODSTMP,raw
+JI-6 R or family member received WIC in prior calendar year,WIC,raw
+JI-7 R or family member received transportation assistance in prior calendar year,HLPTRANS,raw
+JI-8 R or family member received child care services or assistance in prior calendar year,HLPCHLDC,raw
+JI-9 R or family member received job training/search help from social services in prior calendar year,HLPJOB,raw
+Labor force status,LABORFOR,recode
+LABORFOR imputation flag,LABORFOR_I,imputation flag
+LIFPRTNR imputation flag,LIFPRTNR_I,imputation flag
+LSEXDATE imputation flag,LSEXDATE_I,imputation flag
+MARDAT01 imputation flag,MARDAT01_I,imputation flag
+MARDAT02 imputation flag,MARDAT02_I,imputation flag
+MARDIS01 imputation flag,MARDIS01_I,imputation flag
+MARDIS02 imputation flag,MARDIS02_I,imputation flag
+MAREND01 imputation flag,MAREND01_I,imputation flag
+MAREND02 imputation flag,MAREND02_I,imputation flag
+Marital/cohabiting status when 10th pregnancy began,MARCON10,computed in post-processing
+Marital/cohabiting status when 10th pregnancy ended,MAROUT10,computed in post-processing
+Marital/cohabiting status when 11th pregnancy began,MARCON11,computed in post-processing
+Marital/cohabiting status when 11th pregnancy ended,MAROUT11,computed in post-processing
+Marital/cohabiting status when 12th pregnancy began,MARCON12,computed in post-processing
+Marital/cohabiting status when 12th pregnancy ended,MAROUT12,computed in post-processing
+Marital/cohabiting status when 13th pregnancy began,MARCON13,computed in post-processing
+Marital/cohabiting status when 13th pregnancy ended,MAROUT13,computed in post-processing
+Marital/cohabiting status when 14th pregnancy began,MARCON14,computed in post-processing
+Marital/cohabiting status when 14th pregnancy ended,MAROUT14,computed in post-processing
+Marital/cohabiting status when 15th pregnancy began,MARCON15,computed in post-processing
+Marital/cohabiting status when 15th pregnancy ended,MAROUT15,computed in post-processing
+Marital/cohabiting status when 16th pregnancy began,MARCON16,computed in post-processing
+Marital/cohabiting status when 16th pregnancy ended,MAROUT16,computed in post-processing
+Marital/cohabiting status when 1st pregnancy began,MARCON1,computed in post-processing
+Marital/cohabiting status when 1st pregnancy ended,MAROUT1,computed in post-processing
+Marital/cohabiting status when 2nd pregnancy began,MARCON2,computed in post-processing
+Marital/cohabiting status when 2nd pregnancy ended,MAROUT2,computed in post-processing
+Marital/cohabiting status when 3rd pregnancy began,MARCON3,computed in post-processing
+Marital/cohabiting status when 3rd pregnancy ended,MAROUT3,computed in post-processing
+Marital/cohabiting status when 4th pregnancy began,MARCON4,computed in post-processing
+Marital/cohabiting status when 4th pregnancy ended,MAROUT4,computed in post-processing
+Marital/cohabiting status when 5th pregnancy began,MARCON5,computed in post-processing
+Marital/cohabiting status when 5th pregnancy ended,MAROUT5,computed in post-processing
+Marital/cohabiting status when 6th pregnancy began,MARCON6,computed in post-processing
+Marital/cohabiting status when 6th pregnancy ended,MAROUT6,computed in post-processing
+Marital/cohabiting status when 7th pregnancy began,MARCON7,computed in post-processing
+Marital/cohabiting status when 7th pregnancy ended,MAROUT7,computed in post-processing
+Marital/cohabiting status when 8th pregnancy began,MARCON8,computed in post-processing
+Marital/cohabiting status when 8th pregnancy ended,MAROUT8,computed in post-processing
+Marital/cohabiting status when 9th pregnancy began,MARCON9,computed in post-processing
+Marital/cohabiting status when 9th pregnancy ended,MAROUT9,computed in post-processing
+METH12M1 imputation flag,METH12M1_I,imputation flag
+METH12M2 imputation flag,METH12M2_I,imputation flag
+METH12M3 imputation flag,METH12M3_I,imputation flag
+METH12M4 imputation flag,METH12M4_I,imputation flag
+METH3M1 imputation flag,METH3M1_I,imputation flag
+METH3M2 imputation flag,METH3M2_I,imputation flag
+METH3M3 imputation flag,METH3M3_I,imputation flag
+METH3M4 imputation flag,METH3M4_I,imputation flag
+Method chosen for use in EK Series & CURBCPLC (FC E-98b),EKMETHOD,computed
+"Method used at first intercourse, if any - 1st method",SEX1MTHD1,recode
+"Method used at first intercourse, if any - 2nd method",SEX1MTHD2,recode
+"Method used at first intercourse, if any - 3rd method",SEX1MTHD3,recode
+"Method used at first intercourse, if any - 4th method",SEX1MTHD4,recode
+Method used at first sex-1st mention (tot universe) (FC E-32),MTHFSTSX1,computed
+Method used at first sex-2nd mention (tot universe) (FC E-32),MTHFSTSX2,computed
+Method used at first sex-3rd mention (tot universe) (FC E-32),MTHFSTSX3,computed
+Method used at first sex-4th mention (tot universe) (FC E-32),MTHFSTSX4,computed
+Method used at last sex in the past 12 months - 1st method,METH12M1,recode
+Method used at last sex in the past 12 months - 2nd method,METH12M2,recode
+Method used at last sex in the past 12 months - 3rd method,METH12M3,recode
+Method used at last sex in the past 12 months - 4th method,METH12M4,recode
+Method used at last sex in the past 3 months - 1st method,METH3M1,recode
+Method used at last sex in the past 3 months - 2nd method,METH3M2,recode
+Method used at last sex in the past 3 months - 3rd method,METH3M3,recode
+Method used at last sex in the past 3 months - 4th method,METH3M4,recode
+Method(s) used in month of interview - 1st mention (FC E-54),CURRMETH1,computed
+Method(s) used in month of interview - 3rd mention (FC E-54),CURRMETH3,computed
+Method(s) used in month of interview - 4th mention (FC E-54),CURRMETH4,computed
+Method(s) used in month of interview- 2nd mention (FC E-54),CURRMETH2,computed
+"Months between 1st intercourse and 1st coresidential union with a man (or date of interview)
+(categorical)",SEXUNION,computed in post-processing
+Months between 1st intercourse and 1st marriage to a man (or date of interview) (categorical),SEXMAR,computed in post-processing
+Months between 1st marriage to a man and 1st birth (or date of interview) (categorical),MAR1BIR1,computed in post-processing
+Months between 1st marriage to a man and 1st pregnancy conception (or date of interview) (categorical),MAR1CON1,computed in post-processing
+"Months between 1st marriage to a man and dissolution of that marriage (or date of interview)
+(categorical)",MAR1DISS,computed in post-processing
+Months between 1st pregnancy conception and 1st marriage to a man (or date of interview) (categorical),CON1MAR1,computed in post-processing
+Mother's (or mother figure's) education,EDUCMOM,recode
+NOSEX12_I imputation flag,NOSEX12_I,imputation flag
+"Number of all other children (aged 18 or younger) in household living with R and her current husband or
+cohabiting partner (top-coded)",CSPOKDHH,recode
+Number of biological children R has had with her current husband or male cohabiting partner,CSPBIOKD,recode
+Number of biological/adopted/related/legal children under age 18 in household (top-coded),NUMKDHH,recode
+Number of children born in cohabiting unions,CEBOWC,recode
+Number of children born outside of marriage,CEBOW,recode
+Number of children in HH < 13 yrs with RELAR = codes 3 to 8 (computed in FC A-15) (top-coded),NUMCHILD,computed
+Number of children in HH < 19 yrs with RELAR = codes 3 to 10 (computed in FC A-15) (top-coded),HHKIDS18,computed
+Number of children in HH < 19 yrs with RELAR = codes 4 to 10 (computed in FC A-15) (top-coded),NONBIOKIDS,computed
+Number of completed pregnancies,COMPREG,recode
+Number of completed pregnancies ending in induced abortion,ABORTION,recode
+Number of completed pregnancies ending in spontaneous pregnancy loss,LOSSNUM,recode
+Number of Current Male Sexual Partners-including curr H/P,CURRPRTT,computed
+"Number of Current Nonmarital, Noncoresidential Male Sexual Partners",CURRPRTS,computed
+Number of different services received in last 12 months (computed in FC F-4),NUMSVC12,computed
+Number of family members in household (top-coded),NUMFMHH,recode
+"Number of female R's biological children (aged 18 or younger) in household who are not the biological
+children of her current husband or cohabiting partner (top-coded)",CSPBSHH,recode
+Number of former husbands (including separated) (computed in FC C-22),PREVHUSB,computed
+Number of former male cohabiting partners (computed in FC C-34) (top-coded),PREVCOHB,computed
+Number of HH members based on HH roster (computed in FC A-15) (top-coded),ROSCNT,computed
+Number of live births,PARITY,recode
+Number of male partners in past 3 months,NUMP3MOS,recode
+Number of methods reported as first method ever used (FC E-13a),NUMFIRSM,computed
+Number of Methods Reported in April [interview yr] (FC E-48),NUMMULTX40,computed
+Number of Methods Reported in April [interview yr-1] (FC E-48),NUMMULTX28,computed
+Number of Methods Reported in April [interview yr-2] (FC E-48),NUMMULTX16,computed
+Number of Methods Reported in April [interview yr-3] (FC E-48),NUMMULTX4,computed
+Number of Methods Reported in Aug [interview yr] (FC E-48),NUMMULTX44,computed
+Number of Methods Reported in Aug [interview yr-1] (FC E-48),NUMMULTX32,computed
+Number of Methods Reported in Aug [interview yr-2] (FC E-48),NUMMULTX20,computed
+Number of Methods Reported in Aug [interview yr-3] (FC E-48),NUMMULTX8,computed
+Number of Methods Reported in Dec [interview yr] (FC E-48),NUMMULTX48,computed
+Number of Methods Reported in Dec [interview yr-1] (FC E-48),NUMMULTX36,computed
+Number of Methods Reported in Dec [interview yr-2] (FC E-48),NUMMULTX24,computed
+Number of Methods Reported in Dec [interview yr-3] (FC E-48),NUMMULTX12,computed
+Number of Methods Reported in Feb [interview yr] (FC E-48),NUMMULTX38,computed
+Number of Methods Reported in Feb [interview yr-1] (FC E-48),NUMMULTX26,computed
+Number of Methods Reported in Feb [interview yr-2] (FC E-48),NUMMULTX14,computed
+Number of Methods Reported in Feb [interview yr-3] (FC E-48),NUMMULTX2,computed
+Number of Methods Reported in Jan [interview yr] (FC E-48),NUMMULTX37,computed
+Number of Methods Reported in Jan [interview yr-1] (FC E-48),NUMMULTX25,computed
+Number of Methods Reported in Jan [interview yr-2] (FC E-48),NUMMULTX13,computed
+Number of Methods Reported in Jan [interview yr-3] (FC E-48),NUMMULTX1,computed
+Number of Methods Reported in July [interview yr] (FC E-48),NUMMULTX43,computed
+Number of Methods Reported in July [interview yr-1] (FC E-48),NUMMULTX31,computed
+Number of Methods Reported in July [interview yr-2] (FC E-48),NUMMULTX19,computed
+Number of Methods Reported in July [interview yr-3] (FC E-48),NUMMULTX7,computed
+Number of Methods Reported in June [interview yr] (FC E-48),NUMMULTX42,computed
+Number of Methods Reported in June [interview yr-1] (FC E-48),NUMMULTX30,computed
+Number of Methods Reported in June [interview yr-2] (FC E-48),NUMMULTX18,computed
+Number of Methods Reported in June [interview yr-3] (FC E-48),NUMMULTX6,computed
+Number of Methods Reported in March [interview yr] (FC E-48),NUMMULTX39,computed
+Number of Methods Reported in March [interview yr-1] (FC E-48),NUMMULTX27,computed
+Number of Methods Reported in March [interview yr-2] (FC E-48),NUMMULTX15,computed
+Number of Methods Reported in March [interview yr-3] (FC E-48),NUMMULTX3,computed
+Number of Methods Reported in May [interview yr] (FC E-48),NUMMULTX41,computed
+Number of Methods Reported in May [interview yr-1] (FC E-48),NUMMULTX29,computed
+Number of Methods Reported in May [interview yr-2] (FC E-48),NUMMULTX17,computed
+Number of Methods Reported in May [interview yr-3] (FC E-48),NUMMULTX5,computed
+Number of Methods Reported in Nov [interview yr] (FC E-48),NUMMULTX47,computed
+Number of Methods Reported in Nov [interview yr-1] (FC E-48),NUMMULTX35,computed
+Number of Methods Reported in Nov [interview yr-2] (FC E-48),NUMMULTX23,computed
+Number of Methods Reported in Nov [interview yr-3] (FC E-48),NUMMULTX11,computed
+Number of Methods Reported in Oct [interview yr] (FC E-48),NUMMULTX46,computed
+Number of Methods Reported in Oct [interview yr-1] (FC E-48),NUMMULTX34,computed
+Number of Methods Reported in Oct [interview yr-2] (FC E-48),NUMMULTX22,computed
+Number of Methods Reported in Oct [interview yr-3] (FC E-48),NUMMULTX10,computed
+Number of Methods Reported in Sept [interview yr] (FC E-48),NUMMULTX45,computed
+Number of Methods Reported in Sept [interview yr-1] (FC E-48),NUMMULTX33,computed
+Number of Methods Reported in Sept [interview yr-2] (FC E-48),NUMMULTX21,computed
+Number of Methods Reported in Sept [interview yr-3] (FC E-48),NUMMULTX9,computed
+Number of months between first and last/most recent sexual intercourse with first partner ever,FPDUR,recode
+"Number of months between first and most recent sexual intercourse with most recent sexual partner (in
+the past 12 months)",PARTDUR1,recode
+"Number of months between first and most recent sexual intercourse with second-to-last sexual partner (in
+the past 12 months)",PARTDUR2,recode
+"Number of months between first and most recent sexual intercourse with third-to-last sexual partner (in
+the past 12 months)",PARTDUR3,recode
+Number of months of method calendar asked about (FC E-41),NUMMCMON,computed
+Number of months of nonintercourse in the 12 months prior to interview,NOSEX12,recode
+Number of opposite-sex partners in last 12 months for all types of sex (computed in FC J-14f) (top-coded),OPPYEARNUM,computed
+Number of opposite-sex partners in lifetime for all types of sex (computed in FC J-14d) (top-coded),OPPLIFENUM,computed
+Number of opposite-sex sexual partners in last 12 months (top-coded),PARTS1YR,recode
+Number of opposite-sex sexual partners in lifetime (top-coded),LIFPRTNR,recode
+Number of pregnancies ending in live birth,LBPREGS,computed in post-processing
+Number of pregnancies ending in live birth in the last 5 years,BIRTHS5,recode
+Number of respondent's children (18 or younger) living in household,NCHILDHH,recode
+"Number of R's biological children (aged 18 or younger) with current husband or cohabiting partner who
+live in the household (top-coded)",CSPBBHH,recode
+Number of same-sex partners in last 12 months (computed in FC J-19f) (top-coded),SAMYEARNUM,computed
+Number of same-sex partners in lifetime (computed in FC J-19d) (top-coded),SAMLIFENUM,computed
+Number of times identified a clinic as source of service (computed in FC F-8a),IDCLINIC,computed
+Number of times R has been married to a man,FMARNO,recode
+NUMP3MOS imputation flag,NUMP3MOS_I,imputation flag
+Opposite-sex cohabitation experience relative to first marriage to a man,COHSTAT,recode
+Outcome of first cohabitation to a man,COHOUT,recode
+Outcome of pregnancy - 10th,OUTCOM10,computed in post-processing
+Outcome of pregnancy - 11th,OUTCOM11,computed in post-processing
+Outcome of pregnancy - 12th,OUTCOM12,computed in post-processing
+Outcome of pregnancy - 13th,OUTCOM13,computed in post-processing
+Outcome of pregnancy - 14th,OUTCOM14,computed in post-processing
+Outcome of pregnancy - 15th,OUTCOM15,computed in post-processing
+Outcome of pregnancy - 16th,OUTCOM16,computed in post-processing
+Outcome of pregnancy - 1st,OUTCOM1,computed in post-processing
+Outcome of pregnancy - 2nd,OUTCOM2,computed in post-processing
+Outcome of pregnancy - 3rd,OUTCOM3,computed in post-processing
+Outcome of pregnancy - 4th,OUTCOM4,computed in post-processing
+Outcome of pregnancy - 5th,OUTCOM5,computed in post-processing
+Outcome of pregnancy - 6th,OUTCOM6,computed in post-processing
+Outcome of pregnancy - 7th,OUTCOM7,computed in post-processing
+Outcome of pregnancy - 8th,OUTCOM8,computed in post-processing
+Outcome of pregnancy - 9th,OUTCOM9,computed in post-processing
+PARAGE14 imputation flag,PARAGE14_I,imputation flag
+Parental living situation at age 14,PARAGE14,recode
+PARTDUR1 imputation flag,PARTDUR1_I,imputation flag
+PARTDUR2 imputation flag,PARTDUR2_I,imputation flag
+PARTDUR3 imputation flag,PARTDUR3_I,imputation flag
+PARTS1YR imputation flag,PARTS1YR_I,imputation flag
+Place of residence (metropolitan-nonmetropolitan),METRO,recode
+POVERTY imputation flag,POVERTY_I,imputation flag
+PREGNUM imputation flag,PREGNUM_I,imputation flag
+Quarter when case was sampled,QUARTER,raw
+R currently in same-sex marriage or cohabitation (computed in FC A-17),SSMARCOH,computed
+R is living with parents or parent figures--based on HH roster (computed in FC A-25),WTHPARNW,computed
+R is surgically sterile at interview due to hysterectomy (computed in FC D-2),HYST,computed
+"R is surgically sterile at interview due to tubal sterilization, either unreversed or reversal failure (computed
+in FC D-16)",TUBS,computed
+Race and Hispanic origin - based on 1997 OMB guidelines,HISPRACE2,recode
+Randomized version of the Variance Estimation Cluster,VECL,weight-related
+Randomized version of the Variance Estimation Stratum,VEST,weight-related
+Relationship at first sexual intercourse with most recent sexual partner (in the past 12 months),RELATP1,recode
+Relationship at first sexual intercourse with second-to-last sexual partner (in the past 12 months),RELATP2,recode
+Relationship at first sexual intercourse with third-to-last sexual partner (in the past 12 months),RELATP3,recode
+Relationship of 2nd-to-last partner to R,P1YRELP2,raw
+Relationship of 3rd-to-last partner to R,P1YRELP3,raw
+Relationship of last partner to R,P1YRELP1,raw
+RELATP1 imputation flag,RELATP1_I,imputation flag
+RELATP2 imputation flag,RELATP2_I,imputation flag
+RELATP3 imputation flag,RELATP3_I,imputation flag
+RELIGION imputation flag,RELIGION_I,imputation flag
+Respondent ID number,CASEID,raw
+Respondent's Sterility Status at Time of Interview (computed in FC D-27),RSTRSTAT,computed
+R's age as reported in screener,RSCRAGE,raw
+R's age at first sexual intercourse (bottom-coded),VRY1STAG,computed in post-processing
+R's age at household screener (FC A-4),AGESCRN,raw
+R's age at interview,AGER,recode
+R's age at interview (FC A-2b),AGE_R,raw
+R's age at last or most recent sexual intercourse (bottom-coded),LSEXRAGE,computed in post-processing
+R's age when pregnancy began - 10th,AGECON10,computed in post-processing
+R's age when pregnancy began - 11th,AGECON11,computed in post-processing
+R's age when pregnancy began - 12th,AGECON12,computed in post-processing
+R's age when pregnancy began - 13th,AGECON13,computed in post-processing
+R's age when pregnancy began - 14th,AGECON14,computed in post-processing
+R's age when pregnancy began - 15th,AGECON15,computed in post-processing
+R's age when pregnancy began - 1st,AGECON1,computed in post-processing
+R's age when pregnancy began - 2nd,AGECON2,computed in post-processing
+R's age when pregnancy began - 3rd,AGECON3,computed in post-processing
+R's age when pregnancy began - 4th,AGECON4,computed in post-processing
+R's age when pregnancy began - 5th,AGECON5,computed in post-processing
+R's age when pregnancy began - 6th,AGECON6,computed in post-processing
+R's age when pregnancy began - 7th,AGECON7,computed in post-processing
+R's age when pregnancy began - 8th,AGECON8,computed in post-processing
+R's age when pregnancy began - 9th,AGECON9,computed in post-processing
+R's age when pregnancy ended - 10th,AGEPRG10,computed in post-processing
+R's age when pregnancy ended - 11th,AGEPRG11,computed in post-processing
+R's age when pregnancy ended - 12th,AGEPRG12,computed in post-processing
+R's age when pregnancy ended - 13th,AGEPRG13,computed in post-processing
+R's age when pregnancy ended - 14th,AGEPRG14,computed in post-processing
+R's age when pregnancy ended - 15th,AGEPRG15,computed in post-processing
+R's age when pregnancy ended - 16th,AGECON16,computed in post-processing
+R's age when pregnancy ended - 16th,AGEPRG16,computed in post-processing
+R's age when pregnancy ended - 1st,AGEPRG1,computed in post-processing
+R's age when pregnancy ended - 2nd,AGEPRG2,computed in post-processing
+R's age when pregnancy ended - 3rd,AGEPRG3,computed in post-processing
+R's age when pregnancy ended - 4th,AGEPRG4,computed in post-processing
+R's age when pregnancy ended - 5th,AGEPRG5,computed in post-processing
+R's age when pregnancy ended - 6th,AGEPRG6,computed in post-processing
+R's age when pregnancy ended - 7th,AGEPRG7,computed in post-processing
+R's age when pregnancy ended - 8th,AGEPRG8,computed in post-processing
+R's age when pregnancy ended - 9th,AGEPRG9,computed in post-processing
+"R's current H/P is surgically sterile at interview due to vasectomy, either unreversed or reversal failure
+(computed in FC D-16)",VASECT,computed
+R's experience with adoption (based on BD series) (computed in FC B-47),BD_ADOPT,computed
+R's Hispanic origin as reported in screener,RSCRHISP,raw
+R's race as reported in screener,RSCRRACE,raw
+Second named method used in month prior to interview from method history calendar (computed in FC E-54),LSTMONMETH2,computed
+SEX1MTHD1 imputation flag,SEX1MTHD1_I,imputation flag
+SEX1MTHD2 imputation flag,SEX1MTHD2_I,imputation flag
+SEX1MTHD3 imputation flag,SEX1MTHD3_I,imputation flag
+SEX1MTHD4 imputation flag,SEX1MTHD4_I,imputation flag
+SEXONCE imputation flag,SEXONCE_I,imputation flag
+SEXP3MO_I imputation flag,SEXP3MO_I,imputation flag
+Source of HIV test received in the last 12 months,FPTITHIV,recode
+Source of service in the last 12 months: Check-up or medical test related to using a birth control method,FPTITCHK,recode
+Source of service in the last 12 months: Counseling about BC,FPTITCBC,recode
+Source of service in the last 12 months: Counseling about Emergency Contraception,FPTITCEC,recode
+Source of service in the last 12 months: Counseling about sterilization,FPTITCST,recode
+Source of service in the last 12 months: Emergency Contraception,FPTITEC,recode
+Source of service in the last 12 months: Method of birth control or prescription for a method,FPTITBC,recode
+Source of service in the last 12 months: Pap smear,FPTITPAP,recode
+Source of service in the last 12 months: Pelvic exam,FPTITPEL,recode
+Source of service in the last 12 months: Post-pregnancy care,FPTITPPR,recode
+Source of service in the last 12 months: Pregnancy test,FPTITPRE,recode
+Source of service in the last 12 months: Prenatal Care,FPTITPRN,recode
+Source of service in the last 12 months: Sterilization operation,FPTITSTE,recode
+Source of service in the last 12 months: Testing for STD,FPTITSTD,recode
+Sterility Status of R's Current H/P at Time of Interview (computed in FC D-27),PSTRSTAT,computed
+Third named method used in month prior to interview from method history calendar (computed in FC E-54),LSTMONMETH3,computed
+Total income of R's family,TOTINCR,recode
+Total number of pregnancies (including current),PREGNUM,recode
+TOTINCR imputation flag,TOTINCR_I,imputation flag
+Type of household/family structure,HHFAMTYP,recode
+Type of parental situation in household,HHPARTYP,recode
+Type of sterilization operation in effect,STRLOPER,recode
+VRY1STSX imputation flag,VRY1STSX_I,imputation flag
+Wantedness of 10th pregnancy at time of conception -- Respondent,WANTRP10,computed in post-processing
+Wantedness of 10th pregnancy at time of conception -- Respondent's partner,WANTP10,computed in post-processing
+Wantedness of 11th pregnancy at time of conception -- Respondent,WANTRP11,computed in post-processing
+Wantedness of 11th pregnancy at time of conception -- Respondent's partner,WANTP11,computed in post-processing
+Wantedness of 12th pregnancy at time of conception -- Respondent,WANTRP12,computed in post-processing
+Wantedness of 12th pregnancy at time of conception -- Respondent's partner,WANTP12,computed in post-processing
+Wantedness of 13th pregnancy at time of conception -- Respondent,WANTRP13,computed in post-processing
+Wantedness of 13th pregnancy at time of conception -- Respondent's partner,WANTP13,computed in post-processing
+Wantedness of 14th pregnancy at time of conception -- Respondent,WANTRP14,computed in post-processing
+Wantedness of 14th pregnancy at time of conception -- Respondent's partner,WANTP14,computed in post-processing
+Wantedness of 15th pregnancy at time of conception -- Respondent,WANTRP15,computed in post-processing
+Wantedness of 15th pregnancy at time of conception -- Respondent's partner,WANTP15,computed in post-processing
+Wantedness of 16th pregnancy at time of conception -- Respondent,WANTRP16,computed in post-processing
+Wantedness of 16th pregnancy at time of conception -- Respondent's partner,WANTP16,computed in post-processing
+Wantedness of 1st pregnancy at time of conception -- Respondent,WANTRP1,computed in post-processing
+Wantedness of 1st pregnancy at time of conception -- Respondent's partner,WANTP1,computed in post-processing
+Wantedness of 2nd pregnancy at time of conception -- Respondent,WANTRP2,computed in post-processing
+Wantedness of 2nd pregnancy at time of conception -- Respondent's partner,WANTP2,computed in post-processing
+Wantedness of 3rd pregnancy at time of conception -- Respondent,WANTRP3,computed in post-processing
+Wantedness of 3rd pregnancy at time of conception -- Respondent's partner,WANTP3,computed in post-processing
+Wantedness of 4th pregnancy at time of conception -- Respondent,WANTRP4,computed in post-processing
+Wantedness of 4th pregnancy at time of conception -- Respondent's partner,WANTP4,computed in post-processing
+Wantedness of 5th pregnancy at time of conception -- Respondent,WANTRP5,computed in post-processing
+Wantedness of 5th pregnancy at time of conception -- Respondent's partner,WANTP5,computed in post-processing
+Wantedness of 6th pregnancy at time of conception -- Respondent,WANTRP6,computed in post-processing
+Wantedness of 6th pregnancy at time of conception -- Respondent's partner,WANTP6,computed in post-processing
+Wantedness of 7th pregnancy at time of conception -- Respondent,WANTRP7,computed in post-processing
+Wantedness of 7th pregnancy at time of conception -- Respondent's partner,WANTP7,computed in post-processing
+Wantedness of 8th pregnancy at time of conception -- Respondent,WANTRP8,computed in post-processing
+Wantedness of 8th pregnancy at time of conception -- Respondent's partner,WANTP8,computed in post-processing
+Wantedness of 9th pregnancy at time of conception -- Respondent,WANTRP9,computed in post-processing
+Wantedness of 9th pregnancy at time of conception -- Respondent's partner,WANTP9,computed in post-processing
+Was R pregnant in month of last sex in past 12 mos,LSEXPREG,computed in post-processing
+Whether case was selected for Phase 1 sample,PHASE1,raw
+Whether case was selected for Phase 2 sample,PHASE2,raw
+Whether case was selected for Phase 3 sample,PHASE3,raw
+Whether first method mentioned was drug or device (1st meth) (FC E-14),DRUGDEV,computed
+Whether first method mentioned was drug or device (2nd meth) (FC E-14),DRUGDEV2,computed
+Whether first method mentioned was drug or device (3rd meth) (FC E-14),DRUGDEV3,computed
+Whether first method mentioned was drug or device (4th meth) (FC E-14),DRUGDEV4,computed
+Whether or not Partner is current - 2nd-to-last partner in last 12 mos,PCURRNT2,raw
+Whether or not Partner is current - 3rd-to-last partner in last 12 mos,PCURRNT3,raw
+Whether or not Partner is current - last partner in last 12 mos,PCURRNT1,raw
+Whether R & H/P's Only Sterile Ops are Tubal and/or Vasectomy (computed in FC D-16),ONLYTBVS,computed
+Whether R had a live birth in the last 12 months,BIRTH1,computed in post-processing
+Whether R had sexual intercourse in the last 3 months (based on LSEXDATE),SEX3MO,computed in post-processing
+"Whether R has children (18 or younger), and whether bio/non-bio, living in household",HHKIDTYP,recode
+Whether R Has Ever Cohabited with a Non-Marital Male Partner (computed in FC C-31),EVRCOHAB,computed
+Whether R has ever had sex (vaginal intercourse) with a male (computed in FC C-42),RHADSEX,computed
+Whether R has ever had sexual intercourse with a male,HADSEX,recode
+"Whether R has had any sterilizing operations or procedures, regardless of later reversal (computed in FC D-7b)",ANYFSTER,computed
+Whether R has had sexual intercourse with a male only once,SEXONCE,recode
+Whether R is currently employed (working or temporarily on leave from a job) (computed in FC I-9),RWRKST,computed
+Whether R is currently pregnant (at time of interview) (computed in FC B-3),CURRPREG,computed
+Whether R is Surgically Sterile at Interview (computed in FC D-16),RSURGSTR,computed
+Whether R lived in intact family from birth to age 18 (FC A-29),INTACT18,computed
+Whether R lived on own before age 18 (FC A-27),ONOWN18,computed
+Whether R used a cervical cap in the last 12 months (FC E-55),CERVC_12,computed
+Whether R used a diaphragm in the last 12 months (FC E-55),DIAPH_12,computed
+Whether R used a method at first sex (total universe) (FC E-18 and FC E-29),USEFSTSX,computed
+Whether R used an implant in the last 12 months (FC E-55),IMPLANT_12,computed
+Whether R used an IUD in the last 12 months (FC E-55),IUD_12,computed
+Whether R used Depo-Provera in the last 12 months (FC E-55),DEPO_12,computed
+Whether R used emergency contraception in the last 12 months (FC E-55),MPILL_12,computed
+Whether R used the Patch in the last 12 months (FC E-55),PATCH_12,computed
+Whether R used the pill in the last 12 months (FC E-55),PILL_12,computed
+Whether R used the Ring in the last 12 months (FC E-55),RING_12,computed
+Whether R was also the screener informant,RSCRNINF,raw
+Whether R's 1st live birth was before 1st marriage to a man,B1PREMAR,computed in post-processing
+Whether R's Current H/P is Surgically Sterile at Interview (computed in FC D-16),PSURGSTR,computed
+"Whether spouse/partner is currently employed (working or temporarily on leave from a job) (computed in
+FC I-11)",SPWRKST,computed
+"Year current union (marriage or coresidence) began with current wife/female cohabiting partner
+(computed in FC C-2f)",CMSTRTFWP,computed
+Year of dissolution of 1st marriage to a man,MARDIS01,recode
+Year of dissolution of 2nd marriage to a man,MARDIS02,recode
+Year of first cohabitation (including premarital cohabitation) with a man,COHAB1,recode
+Year of R's marriage to 1st husband,MARDAT01,recode
+Year of R's marriage to 2nd husband,MARDAT02,recode
+Year of R's marriage to current husband (computed in FC C-7a),CMMARRCH,computed
+Year R began living with her current husband or cohabiting partner,CMSTRTHP,Intermediate
+Year when interview occurred,YEAR,raw
+Year when pregnancy began - 10th,DATCON10,computed in post-processing
+Year when pregnancy began - 11th,DATCON11,computed in post-processing
+Year when pregnancy began - 12th,DATCON12,computed in post-processing
+Year when pregnancy began - 13th,DATCON13,computed in post-processing
+Year when pregnancy began - 14th,DATCON14,computed in post-processing
+Year when pregnancy began - 15th,DATCON15,computed in post-processing
+Year when pregnancy began - 16th,DATCON16,computed in post-processing
+Year when pregnancy began - 1st,DATCON1,computed in post-processing
+Year when pregnancy began - 2nd,DATCON2,computed in post-processing
+Year when pregnancy began - 3rd,DATCON3,computed in post-processing
+Year when pregnancy began - 4th,DATCON4,computed in post-processing
+Year when pregnancy began - 5th,DATCON5,computed in post-processing
+Year when pregnancy began - 6th,DATCON6,computed in post-processing
+Year when pregnancy began - 7th,DATCON7,computed in post-processing
+Year when pregnancy began - 8th,DATCON8,computed in post-processing
+Year when pregnancy began - 9th,DATCON9,computed in post-processing
+Year when pregnancy ended - 10th,DATEND10,computed in post-processing
+Year when pregnancy ended - 11th,DATEND11,computed in post-processing
+Year when pregnancy ended - 12th,DATEND12,computed in post-processing
+Year when pregnancy ended - 13th,DATEND13,computed in post-processing
+Year when pregnancy ended - 14th,DATEND14,computed in post-processing
+Year when pregnancy ended - 15th,DATEND15,computed in post-processing
+Year when pregnancy ended - 16th,DATEND16,computed in post-processing
+Year when pregnancy ended - 1st,DATEND1,computed in post-processing
+Year when pregnancy ended - 2nd,DATEND2,computed in post-processing
+Year when pregnancy ended - 3rd,DATEND3,computed in post-processing
+Year when pregnancy ended - 4th,DATEND4,computed in post-processing
+Year when pregnancy ended - 5th,DATEND5,computed in post-processing
+Year when pregnancy ended - 6th,DATEND6,computed in post-processing
+Year when pregnancy ended - 7th,DATEND7,computed in post-processing
+Year when pregnancy ended - 8th,DATEND8,computed in post-processing
+Year when pregnancy ended - 9th,DATEND9,computed in post-processing
+Year when R had her first biological child,DATBABY1,computed in post-processing
